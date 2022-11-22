@@ -1,0 +1,626 @@
+CompanyID,Company,UseCase,Country
+0,Hera Systems,Commercial,USA
+1,Aalto University,Civil,Finland
+2,University of Aalborg,Civil,Denmark
+3,Asia Broadcast Satellite Ltd.,Commercial,Multinational
+4,Asher Space Research Institute at Technion/Israeli Aircraft Industries,Government,Israel
+5,National Reconnaissance Office (NRO),Military,USA
+6,US Air Force,Military,USA
+7,US Air Force ,Military,USA
+8,Department of Homeland Security,Government,USA
+9,European Space Agency (ESA),Government,ESA
+10,Aerospace Corporation,Commercial,USA
+11,EUTELSAT S.A.,Commercial,Multinational
+12,Aurora Insight,Commercial,USA
+13,"Center for Atmospheric Sciences, Hampton University/NASA",Government,USA
+14,Norwegian Coastal Admnistration,Government,Norway
+15,AISTech,Commercial,Spain
+16,Al Yah Satellite Communications Co. (YAHSAT),Commercial,United Arab Emirates
+17,Algerian Space Agency (ASAL),Government,Algeria
+18,Astro Live Experiences,Commercial,Japan
+19,University of Brasilia,Civil,Brazil
+20,Al-Farabi Kazakh National University,Civil,Kazakhstan
+21,US Air Force Institute of Technology,Military,USA
+22,Algerian Space Agency (ASAL)/UK Space Agency,Government,Algeria
+23,Hispamar (subsidiary of Hispasat - Spain),Commercial,Spain
+24,National Institute for Space Research (INPE),Government,Brazil
+25,SES S.A.,Commercial,USA
+26,SES S.A./Gogo,Commercial,USA
+27,Moscow State University,Civil,Russia
+28,Space-Communication Ltd.,Military/Commercial,Israel
+29,AMSAT-NA,Civil,USA
+30,Agency for Defense Development,Military,South Korea
+31,ANDESITE - Boston University,Civil,USA
+32,Centre National d'Etudes Spatiales (CNES),Government,ESA
+33,"Telesat Canada Ltd. (BCE, Inc.)",Commercial,Canada
+34,"Aprize Satellite, Argentina",Commercial,Argentina
+35,exactEarth,Commercial,Canada
+36,APT Satellite Holdings Ltd.,Commercial,China
+37,Arab Satellite Communications Org. (ASCO),Government,Multinational
+38,"University of South Florida, Institute of Applied Engineering (IAE).",Civil,USA
+39,Norwegian Defence Research Establishment,Military,Norway
+40,Aoyama Gakuin University in Tokyo,Civil,Japan
+41,Naval Physical and Oceanographic Laboratory,Government,Russia
+42,Planetary Resources,Commercial,USA
+43,Satellite Design Laboratory UT Austin/Baylor University,Civil,USA
+44,ArSat,Commercial,Argentina
+45,Aerospacelab,Commercial,Belgium
+46,Istanbul Technical  University,Civil,Turkey
+47,Asia Satellite Telecommunications Co. Ltd.,Commercial,China
+48,1Worldspace,Commercial,USA
+49,Japan Space Systems,Government,Japan
+50,Chiba Institute of Technology,Civil,Japan
+51,Astranis,Commercial,USA
+52,Astrocast,Commercial,Switzerland
+53,Telemetry Tracking and Command Network (ISTRAC) Centre,Government,India
+54,"DirecTV, Inc.",Commercial,USA
+55,PointView Tech,Commercial,USA
+56,Centre National d'Etudes Spatiales (CNES)/Agenzia Spaziale Italiana (ASI),Government/Military,France/Italy
+57,Microspace Rapid Pvt Ltd.,Commercial,Singapore
+58,Azercosmos,Government,Azerbaijan
+59,Bangladesh Telecommunication Regulatory Commission (BTRC),Government,Bangladesh
+60,Tianyi Research Institute,Civil,China
+61,Ministry of Defense,Military,Russia
+62,"GasTianta and GZH-HNJ BDS AGR Co., Ltd.",Commercial,China
+63,Central European Institute of Technology,Government,Czech Republic
+64,Technical University Berlin,Civil,Germany
+65,Chinese Ministry of National Defense,Military/Government,China
+66,21st Century Aerospace Technology (21AT),Commercial,China 
+67,Beijing Landview Mapping Information Technology Co. Ltd (BLMIT),Commercial,China
+68,Belintersat,Government,Belarus
+69,Institute of Space Sensor Technology and Planetary Exploration,Government/Civil,Germany
+70,German Aerospace Center (DLR),Government,Germany
+71,Salish Kootenai College,Civil,USA
+72,National Academy of Sciences,Government,Belarus
+73,BlackSky Global,Commercial,USA
+74,NanoAvionics,Commercial,Lithuania
+75,Embratel Star One,Commercial,Brazil
+76,"SpaceQuest, Ltd.",Commercial,USA
+77,Bank Rakyat Indonesia (BRI),Commercial,Indonesia
+78,"University of Toronto, Institute for Aerospace Studies",Civil,Canada
+79,BRITE Consortium,Government,Multinational
+80,UnseenLabs,Commercial,France
+81,Broadcasting Satellite System Corp.,Commercial,Japan
+82,Broadcasting Satellite System Corp./Sky Perfect JSAT Corporation,Commercial,Japan
+83,Defence Science and Technology Group/University of New South Wales,Military/Civil,Australia
+84,China Academy of Space Technology (CAST),Government,China
+85,Satellogic S.A.,Commercial,Argentina
+86,Bulsatcom,Commercial,Bulgaria
+87,Capital Technology University,Government/Civil,USA
+88,Centre National d'Etudes Spatiales (CNES)/NASA,Government,France/USA
+89,University of Louisiana at Lafayette,Civil,USA
+90,Capella Space,Commercial,USA
+91,Indian Space Research Organization (ISRO),Government,India
+92,Korea Aerospace Research Institute (KARI),Government,South Korea
+93,Canadian Space Agency,Government,Canada
+94,China National Space Administration (CNSA)/National Institute for Space Research (Brazil),Government,China/Brazil
+95,Surrey Satellite Technology Ltd.,Commercial,United Kingdom
+96,Earth-i/Surrey Satellite Technology Ltd.,Commercial,United Kingdom
+97,Air Force Research Laboratory,Military,USA
+98,Fleet Space Technologies,Commercial,Australia
+99,Beijing Future Navigation Technology Co. Ltd.,Commercial,China
+100,NASA Goddard Space Flight Center,Government,USA
+101,Ministry of Armed Forces,Military,France
+102,Canon Electronics ,Commercial,Japan
+103,Defense Innovation Unit/Cesium Astro,Military,USA
+104,Los Alamos National Laboratory,Government,USA
+105,China National Space Administration (CNSA)/National Centre for Space Studies (CNES),Government,China/France
+106,TELNET Holding,Commercial,Tunisia
+107,National Aeronautics and Space Administration (NASA) Goddard Space Flight Center,Government,USA
+108,Spacety Aerospace Company,Commercial,China
+109,Shanghai Engineering Center for Microsatellites,Government,China
+110,Spacety Co. Ltd.,Commercial,China
+111,Nanjing University,Government,China
+112,Naval Research Laboratory,Military,USA
+113,University of Florida,Government/Civil,USA
+114,Chinese Academy of Sciences,Government,China
+115,GeoOptics Inc.,Commercial,USA
+116,Ciel Satellite Group,Commercial,Canada
+117,University of California-Berkeley/Imperial College-London,Civil,USA
+118,Utah State University,Commercial/Civil,USA
+119,Unknown US agency,Military,USA
+120,National Aeronautics and Space Administration (NASA)/Colorado State University,Government/Civil,USA
+121,Department of Defense/Missile Defense Agency,Military,USA
+122,FH Aachen,Government/Civil,Germany
+123,Armed Forces,Military,Germany
+124,US Air Force/ US Navy/NASA,Military,USA
+125,Astro Digital,Commercial,USA
+126,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Taiwan/USA
+127,"National Space Program Office (NSPO)/University Corporation for Atmospheric Research (UCAR) Boulder, CO",Government/Civil,Taiwan/USA
+128,Italian Space Agency/Ministry of Defense,Military/Civil,Italy
+129,California Polytechnic State University/NASA JPL,Government/Civil,USA
+130,University of Colorado,Civil,USA
+131,Directorate General of Armaments (DGA),Military,France
+132,"Argentinian Ministry of Science, Technology and Productive Innovation/Radio Club Bariloche",Civil,Argentina
+133,University of Illinois Urbana-Champaign,Civil,USA
+134,"Department of Astronautics, University of Tokyo",Civil,Japan
+135,National Aeronautics and Space Administration (NASA),Government,USA
+136,"Department of Astrophysical and Planetary Science, UC Boulder/National Aeronautics and Space Administration (NASA)",Government,USA
+137,University of Michigan/NASA Earth Science Technology Office,Government,USA
+138,Mexican Space Agency/NanoAvionics,Government,Mexico
+139,Japan Aerospace Exploration Agency (JAXA),Government,Japan
+140,North Idaho STEM Charter Academy,Civil,USA
+141,ADA Space (?),Commercial,China
+142,China Amateur Satellite - CAMSAT,Civil,China
+143,Deimos Imaging/DMC International Imaging (DMCII),Government,Spain
+144,"Technical University, Delft",Civil,Netherlands
+145,Massachusetts Institute of Technology,Civil,USA
+146,Khalifa University,Civil,United Arab Emirates
+147,DARPA (Defense Advanced Research Projects Agency),Military,USA
+148,"Sky and Space Global, UK",Commercial,United Kingdom
+149,SpacePharma,Commercial,Switzerland
+150,"Philippines’ Department of Science and Technology, University of the Philippines Diliman, and Japan’s Hokkaido University and Tohoku University",Civil,Japan
+151,Deutsches Zentrum für Luft- und Raumfahrt,Government,Germany
+152,Mohammend Bin Rashid Space Centre (MBRSC),Government,United Arab Emirates
+153,DoD/NOAA,Military,USA
+154,"University of Southern California, Space Engineering Research Center/Lockheed Martin",Civil/Commercial,USA
+155,"Planet Labs, Inc.",Commercial,USA
+156,China National Space Administration,Government,China
+157,Kawasaki Heavy Industries,Commercial,Japan
+158,German Orbital Systems ,Commercial,Germany
+159,Emirates Institution for Advanced Science & Technology (EIAST),Government,United Arab Emirates
+160,Academy of Military Science,Military,China
+161,Global Eagle Entertainment,Commercial,USA
+162,OHB Italia,Commercial,Italy
+163,"Echostar Satellite Services, LLC",Commercial,USA
+164,"HughesNet leased from Echostar Technologies, LLC",Commercial,USA
+165,"Echostar Satellite Services, LLC/Intelsat ",Commercial,USA
+166,Equator Technological University,Civil,Ecuador
+167,Airbus,Commercial,ESA
+168,National Authority for Remote Sensing and Space Science (NARSS),Government,Egypt
+169,Momentus,Commercial,USA
+170,Roshydromet - Planeta,Government,Russia
+171,University of California,Commercial/Civil,USA
+172,DGA (Arms Procurement Agency)/Centre National d'Etudes Spatiales (CNES),Military,France
+173,Astroscale ,Commercial,Singapore
+174,Defence Research and Development Organization,Military,India
+175,Unknown,Military,Russia
+176,Earth Sciences Enterprise (NASA),Government,USA/Canada/Japan
+177,Goddard Space Flight Center/EOS Data and Operations System,Government,USA
+178,National Aeronautics and Space Administration (NASA) - Earth Science Enterprise/Japan Meteorological Agency/Brazilian Space Agency,Government,USA/Japan/Brazil
+179,Defense Ministry,Military,Russia
+180,"ImageSat International, NV/Ministry of Defense",Military/Commercial,Israel
+181,ESA/European Maritime Safety Agency,Government,ESA
+182,European University Network,Civil,ESA
+183,EUTELSAT S.A./Es'hailSat,Commercial,Multinational
+184,Es’hailSat,Military/Commercial,Qatar
+185,Ethiopian Space Science and Technology Institute,Government,Ethiopia
+186,EUTELSAT Americas,Commercial,Multinational
+187,EUTELSAT S.A./Nilesat,Commercial,Multinational
+188,Defense Advanced Research Projects Agency (DARPA),Military,USA
+189,California Polytechnic Institute,Government/Civil,USA
+190,Russian Satellite Communications Company,Commercial,Russia
+191,Exseed Space,Commercial,India
+192,CNES (Centre national d'études spatiales),Government,ESA
+193,Colombian Air Force,Military,Colombia
+194,US Air Force Academy,Military/Civil,USA
+195,InSpace,Commercial,United Kingdom
+196,University of Texas - Austin,Military/Civil,USA
+197,Link Space Aerospace Technology,Commercial,China
+198,China Meteorological Administration,Government,China
+199,National Aeronautics and Space Administration (NASA)/GSFC,Government,USA
+200,"Firebird Consortium (Montana State Univ., Univ. of New Hampshire, Aerospace Corp., Los Alamos National Laboratory)",Government/Civil,USA
+201,University of Stuttgart,Civil,Germany
+202,US Navy,Military,USA
+203,National Space Organization,Government,Taiwan
+204,Jihua Laboratory,Government,China
+205,Fossa Systems,Commercial,Switzerland
+206,Copernicus Land and Marine Environment services,Government,ESA
+207,AMSAT-UK,Civil,Netherlands
+208,PanAmSat (Intelsat S.A.),Commercial,USA
+209,PanAmSat (Intelsat S.A.)/Sky Perfect JSAT Corp.,Commercial,USA/Japan
+210,Intelsat S.A.,Commercial,USA
+211,Intelsat S.A. ,Commercial,USA
+212,"PanAmSat (Intelsat S.A.)/DirecTV, Inc.",Commercial,USA
+213,China National Academy of Sciences (CNSAS),Government,China
+214,"China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture",Government,China
+215,State Oceanic Administration (SOA),Government,China
+216,"China's Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture",Government,China
+217,Ministry of Natural Resources/Ministry of Housing and Urban-Rural Development/National Bureau of Statistics,Government,China
+218,People's Liberation Army (C41),Military,China
+219,GomSpace ApS,Commercial,Denmark
+220,Air Force Research Laboratory/Globalstar,Military/Commercial,USA
+221,NearSpace Launch/Air Force Research Laboratory,Government,USA
+222,Bigelow Aerospace,Commercial,USA
+223,DigitalGlobe Corporation,Government/Commercial,USA
+224,Korea Meteorological Administration/National Meteorological Satellite Center,Government,South Korea
+225,Institute of Space and Astronautical Science (ISAS)/NASA/ESA,Government,Multinational
+226,Marshall Intec,Government,United Arab Emirates
+227,"GHGSat, Inc.",Commercial,Canada
+228,Globalstar,Commercial,USA
+229,OHB SE (Orbitale Hochtechnologie Bremen),Commercial,Germany
+230,PlanetiQ,Commercial,USA
+231,NOAA (National Oceanographic and Atmospheric Administration),Government,USA
+232,Turkish Ministry of National Defense,Military,Turkey
+233,Hong Kong Aerospace Technology Group,Commercial,China
+234,Gonets Satcom,Commercial,Russia
+235,"JAXA, Ministry of Environment, National Institute of Environmental Studies",Government,Japan
+236,Lunasonde,Commercial,USA
+237,LuxGovSat,Government/Military,Luxembourg
+238,National Aeronautics and Space Administration (NASA)/JAXA,Government,USA/Japan
+239,NASA/German Research Centre for Geosciences (GFZ),Government,USA/Germany
+240,Axelspace,Commercial,Japan
+241,Indian Navy,Military,India
+242,Indian Air Force,Military,India
+243,Air Force Satellite Control Network,Military,USA
+244,Paraguayan Space Agency/Kyushu Institute of Technology,Government,Paraguay
+245,U.S. Army’s Space and Missile Defense Command,Military,USA
+246,Department of Defense/Army Space and Missile Defense Command,Military,USA
+247,Sanya Institute of Remote Sensing,Government,China
+248,Xiamen University/Aerospace Dongfanghong Satellite Co. Ltd. {CASC),Government/Civil,China
+249,Department of Defense/Space Test Program,Military,USA
+250,"Hunan Hangsheng Satellite Technology Co., Ltd.",Commercial,China
+251,US Army Space and Missile Defense Command,Military,USA
+252,HawkEye 360,Commercial,USA
+253,HEAD Aerospace,Commercial,China
+254,Centre National d'Etudes Spatiales (CNES)/Délégation Générale de l'Armement (DGA),Military,France/Italy/Belgium/Spain/Greece
+255,Hellas-Sat Consortium Ltd.,Commercial,Greece
+256,Hellas-Sat Consortium Ltd./INMARSAT,Commercial,Greece/United Kingdom
+257,"Space Sciences Laboratory, UC Berkeley/NASA",Government/Civil,USA
+258,Tokyo Institute of Technology,Civil,Japan
+259,Hiber Global,Commercial,Netherlands
+260,Japan Meteorological Agency/Meteorological Satellite Center (MSC),Government,Japan
+261,Institute of Space and Aeronautical Science/NASA,Government,Multinational
+262,Spacety,Commercial,China
+263,Hispasat,Government/Commercial/Military,Spain
+264,National Remote Sensing Center (NRSCC),Government,China
+265,National Committee for Disaster Reduction and State Environmental Protection,Government,China
+266,China Centre for Resources Satellite Data and Application (CRESDA),Government,China
+267,University of Tokyo and NESTRA,Government,Japan
+268,China Aerospace Science and Technology Corporation (CASC),Government,China
+269,China Aerospace Science and Industry Corporation (CASIC),Commercial,China
+270,"Horizons 2 Satellite, LLC (Intelsat, Sky Perfect JSAT Corporation)",Commercial,USA/Japan
+271,Kyushu Institute of Technology (KIT),Civil,Japan
+272,Harris Corporation,Commercial,USA
+273,Shanghai Lizheng Satellite Application Technology,Commercial,China
+274,European Space Agency (ESA)/NASA,Government,ESA/USA
+275,Huaian Youth Comprehensive Development Base,Civil,China
+276,National Space Science Center (NSSC),Government,China
+277,"Avanti Communications, PLC",Commercial,United Kingdom
+278,ICEYE Ltd.,Commercial,Finland
+279,Cabinet Satellite Intelligence Center (CSIC),Government,Japan
+280,"INMARSAT, Ltd.",Commercial,United Kingdom
+281,"INMARSAT, Ltd./European Space Agency (ESA)",Government/Commercial,United Kingdom/ESA
+282,"INMARSAT,Ltd.",Commercial,United Kingdom
+283,Astronautic Technology Sdn. Bhd (ATSB),Government,Malaysia
+284,University of Colorado’s Laboratory for Atmospheric and Space Physics/Indian Institute of Space Science and Technology,Civil/Government,USA/India/Singapore/Taiwan
+285,European Space Operations Centre (ESOC)/NASA/Russia,Government,ESA/USA/Russia
+286,Intelsat S.A./Sky Perfect JSAT Corp.,Commercial,USA
+287,National Aeronautics and Space Administration (NASA)/Multinational,Government,Multinational
+288,National Aeronautics and Space Administration (NASA)/Goddard Space Flight Center,Government,USA
+289,D-Orbit,Commercial,Italy
+290,"Iridium Communications, Inc.",Government/Commercial,USA
+291,NASA Small Satellite Technology Program,Government,USA
+292,iSky Technology,Commercial,Czech Republic
+293,NASA/CalPoly,Government/Civil,USA
+294,ITU Space Systems Design & Test Laboratory,Civil,Turkey
+295,Radio Amateur Society of Thailand (RAST),Civil,Thailand
+296,National Aeronautics and Space Administration (NASA)/Centre National d'Etudes Spatiales (CNES)/NOAA/EUMETSAT,Government,USA/France
+297,Sky Perfect JSAT Corporation,Commercial,Japan
+298,Sky Perfect JSAT Corporation/Kacific,Commercial,Japan/Singapore
+299,Space OK (Shanghai Ok Space Co Ltd.),Commercial,China
+300,Chang Guang Satellite Technology Co. Ltd.,Commercial,China
+301,Chang Guang Satellite Technology Co. Ltd. ,Commercial,China
+302,"Beijing ZeroG Space Technology Co., Ltd./Hong Kong Aerospace Tech Group",Commercial,China
+303,Chinese University Corporation for Polar Research,Civil,China
+304,Crown Prince Foundation,Civil,Jordan
+305,China Aerospace Science and Technology Corp. (CASC),Government,China
+306,Scientific Production Corporation (joint stock creation of Russian Space Agency),Government,Russia
+307,Roscosmos State Corporation,Government,Russia
+308,Kazcosmos,Government,Kazakhstan
+309,JSC KazSat,Commercial,Kazakhstan
+310,Ghalam LLP,Commercial,Kazakhstan
+311,National University of Singapore,Civil,Singapore
+312,Kepler Communications,Commercial,Canada
+313,US Army Space and Missile Defense Command/Army Forces Strategic Command,Military,USA
+314,Tsinghua University,Civil,China
+315,Tokyo Metropolitan College of Industrial Technology,Civil,Japan
+316,KLEO Connect,Commercial,Germany
+317,Chosun University,Civil,South Korea
+318,KT Corporation/Korean Agency for Defense Development (ADD),Military/Commercial,South Korea
+319,KT Corporation,Commercial,South Korea
+320,National Institute of Technology at Kochi College,Civil,Japan
+321,Kleos Space,Commercial,Luxembourg
+322,"College of Engineering, King Saud University",Civil,Saudi Arabia
+323,Lacuna Space,Commercial,United Kingdom/Netherlands
+324,Beijing Commsat Technology Development Co. Ltd.,Commercial,China
+325,National Aeronautics and Space Administration (NASA)/US Geological Survey,Government,USA
+326,Laos National Authority for Science and Technology,Government,Laos
+327,Indonesian National Aeronautics and Space Agency (Lembaga Penerbangan dan Antariksa Nasional - LAPAN),Government,Indonesia
+328,Aprize Satellite Argentina,Commercial,Argentina
+329,US Space Force,Military,USA
+330,Sapienza,Civil,Italy
+331,Spire Global Inc.,Commercial,USA
+332,California Polytechnic State University,Civil,USA
+333,The Planetary Society,Civil,USA
+334,Harbin Institute/China Amateur Satellite - CAMSAT,Civil,China
+335,General Atomics Electromagnetic Systems,Commercial,USA
+336,Xinwei Telecom Technology Company,Commercial,China
+337,Beijing ZeroG Technology Co. Ltd.,Commercial,China
+338,Nanjing and Hong Kong Universities,Civil,China
+339,Changchun Institute of Optics,Commercial,China
+340,Russian Federal Space Agency,Government,Russia
+341,SkyFox Labs,Commercial,Czech Republic
+342,Shanghai Academy of Space Technology,Government,China
+343,University of Vigo/Alén Space,Commercial/Civil,Spain
+344,Wuhan University,Civil,China
+345,Lynk Global Inc.,Commercial,USA
+346,Defence Research and Development Canada (DRDC)/Canadian Space Agency,Government,Canada
+347,Northwest Nazarene University,Commercial/Civil,USA
+348,CTRS Morocco/Institut für Luft-und Raumfahrttechnik (Berlin),Government,Morocco/Germany
+349,"Max Valier school Bolzano, Italy, Oskar von Miller school, Merano, Italy",Civil,Italy
+350,University of Michigan/Montana University,Civil,USA
+351,Cape Peninsula University of Technology (CPUT),Government,South Africa
+352,MEASAT Satellite Systems Sdn. Bhd.,Commercial,Malaysia
+353,Indian Space Research Organization (ISRO)/Centre National d'Etudes Spatiales (CNES),Government,India/France
+354,PT Telkomunikasi,Commercial,Indonesia
+355,National Reconnaissance Office (NRO)/US Air Force,Military,USA
+356,Military Space Forces (VKS),Military,Russia
+357,Analytical Space,Government,USA
+358,Russian Federal Service For Hydrometeorology and Environmental Monitoring (ROSHYDROMET),Government,Russia
+359,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government/Civil,Multinational
+360,ESA/EUMETSAT (European Organization for the Exploitation of Meterological Satellites),Government/Civil,Multinational
+361,Space Logistics LLC,Commercial,USA
+362,Mexico Telecomm,Government/Military,Mexico
+363,Masdar Institute of Science and Technology,Civil,United Arab Emirates
+364,Vietnam National Space Center,Government,Vietnam
+365,MIT/Lincoln Laboratory-University of Massachusetts Amherst,Civil/Government,USA
+366,Kingdom of Morocco,Government,Morocco
+367,Technical University of Munich,Government/Civil,Germany
+368,Mozhaisky Space Engineering Academy,Government/Civil,Russia
+369,Mobile Satellite Ventures,Commercial,USA/Canada
+370,US Department of Energy/Office of Nonproliferation and National Security,Government/Military,USA
+371,DoD/US Navy,Military,USA
+372,"Tyvak Nanosatellite Systems, Inc.",Commercial,USA
+373,Instituto Nacional de Técnia Aeroespacial (INTA),Government,Spain
+374,"Brazilian National Institute of Space Research (INPE/MCTI), Federal University of Santa Maria (UFSM)",Government/Civil,Brazil
+375,Thai Air Force,Military,Thailand
+376,National Authority for Remote Sensing and Space Sciences,Government,Egypt
+377,DoD/US Air Force,Military/Commercial,USA
+378,Mohammed bin Rashid Space Centre/American University of Sharjah,Civil,United Arab Emirates
+379,Center of Excellence for Space Sciences and Technologies (SPACE-SI),Civil,Slovenia
+380,Origin Space,Commercial,China
+381,Deimos,Government,Spain
+382,Würzburg Center for Telematics,Commercial,Germany
+383,Korea Advanced Institute of Science and Technology (KAIST),Government,South Korea
+384,Nihon University,Civil,Japan
+385,NigComSat,Commercial,Nigeria
+386,National Space Research and Development Agency (NASRDA),Government,Nigeria
+387,Egyptian Radio and TV Union ,Government,Egypt
+388,Echostar Corporation (entire payload leased from Telesat Canada Ltd.),Commercial,Canada
+389,Ningxia Jingui Information Technology Co. Ltd.,Commercial,China
+390,Noorul Islam University,Civil,India
+391,National Oceanographic and Atmospheric Administration (NOAA) (part of international program),Government,USA
+392,Revolutionary Guard Corps,Military,Iran
+393,Novosibirsk State University,Civil,Russia
+394,Norwegian Space Center,Government,Norway
+395,UK Government/Surrey Satellite Technologies,Government/Commercial,United Kingdom
+396,National Oceanographic and Atmospheric Administration (NOAA)/NASA,Government,USA
+397,USAF Space Test Office,Civil/Military,USA
+398,NSLComm,Commercial,Israel
+399,PT Pasifik Satelit Nusantara,Commercial,Indonesia
+400,National Aeronautics and Space Administration (NASA)-Ames Research Center/Stanford University,Government/Civil,USA
+401,O3b Networks Ltd.,Commercial,United Kingdom
+402,Michigan Technological University/Air Force Research Laboratory,Military,USA
+403,Swedish National Space Board,Government,Sweden
+404,U.S. Space Force,Military,USA
+405,OneWeb Satellites,Commercial,United Kingdom
+406,Spanish Space Agency,Government,Spain
+407,Italian Defense Ministry,Military,Italy
+408,Optus Communications (Parent: Singapore Telecom),Commercial,Australia
+409,Optus Communications (Parent: Singapore Telecom)/Australian Ministry of Defense,Military/Commercial,Australia
+410,ORBCOMM Inc.,Commercial,USA
+411,University of Texas at El Paso,Civil,USA
+412,DARPA/Tethers Unlimited,Military,USA
+413,Portland State Aerospace Society,Civil,USA
+414,USAF /ORSO (Operationally Responsive Space Office),Military,USA
+415,General Atomics - Electromagnetic Systems Group,Commercial,USA
+416,Mexico Secretariat of National Defense (SEDENA),Military,Mexico
+417,Pakistan Space and Upper Atmosphere Research Commission (SUPARCO)/PakSat International,Government/Commercial,Pakistan
+418,Pakistan Space and Upper Atmosphere Research Commission (SUPARCO),Government,Pakistan
+419,National Reconnaissance Office,Military,USA
+420,National Aeronautics and Space Administration (NASA)/Cornell University,Government,USA
+421,US Naval Academy,Military,USA
+422,Helios Wire/Echostar Global Australia,Commercial,USA
+423,Hisdesat,Military/Commercial,Spain
+424,Tiger Innovations,Commercial,USA
+425,Netherlands Organization for Applied Scientific Research (NTO) consortium,Government,Netherlands
+426,Dauria Aerospace,Commercial,Russia/USA
+427,Peruvian Space Agency,Government,Peru
+428,Rocket Labs ,Commercial,New Zealand
+429,Brigham Young University,Government/Civil,USA
+430,German Aerospace Center (DLR-IKN)/TESAT Spacecom,Government,Germany
+431,University of Chile for Aerospace Investigation),Civil/Government,Chile
+432,"Ministry of Defense/Centre National d'Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden",Government,France/Italy
+433,"Ministry of Defense//Centre National d/Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden",Commercial,France
+434,Airbus Defense and Space,Commercial,France
+435,US Coast Guard,Military,USA
+436,"University of Colorado, Boulder",Government/Civil,USA
+437,National Technical University,Civil,Ukraine
+438,Italian Space Agency,Government,Italy
+439,Naval Post-Graduate School,Military,USA
+440,Georgia Institute of Technology,Civil,USA
+441,Shanghai Academy of Spaceflight Technology,Government,China
+442,Astrodynamics and Control Laboratory of Yonsei University,Civil,South Korea
+443,Von Karman Institute (VKI),Civil,Belgium
+444,Qiansheng Exploration Technology Co. Ltd.,Commercial,China
+445,Shandong Institutes of Industrial Technology,Government,China
+446,Orbital Space,Civil,Kuwait
+447,iQPS,Commercial,Japan
+448,University of Science and Technology,Government,China
+449,SES S.A. -- total capacity leased to subsidiary of EchoStar Corp. ,Commercial,USA
+450,University of New South Wales/Department of Defence,Civil/Military,Australia
+451,MDA Corporation,Commercial,Canada
+452,C3S,Commercial,Hungary
+453,Vanderbilt University/AMSAT,Civil,USA
+454,Japan Aerospace Exploration Agency,Government,Japan
+455,"Robertsville Middle School, Oak Ridge, Tennessee",Civil,USA
+456,Space Technologies Research Institute,Government,Turkey
+457,Regional African Satellite Communications Organization (RASCOM),Commercial,Multinational
+458,Applied Physics Laboratory/NASA,Government,USA
+459,Reaktor Space Lab,Commercial,Finland
+460,Institute of Space and Astronautical Science (ISAS)/Japan Aerospace Exploration Agency (JAXA),Government,Japan
+461,Skobeltsyn Institute of Nuclear Physics,Government,Russia
+462,Indian Space Research Organization (ISRO)/exactEarth,Government,India/Canada
+463,Tohoku University,Civil,Japan
+464,Tohoku University/Hokkaido University,Civil,Japan
+465,University of Montpellier,Civil,France
+466,RymanSat Project,Commercial,Japan
+467,European Space Agency (ESA) (and 250 international scientific investigators),Government,ESA
+468,National Autonomous University of Mexico,Civil,Mexico
+469,AMSAT/Nepal,Civil,Nepal
+470,National Space Activities Commission (CONAE),Government,Argentina
+471,Department of National Defense,Military,Canada
+472,Sateliot IoT,Commercial,Spain
+473,"Department of Computer Science and the Faculty of Engineering, Ariel University",Civil,Israel
+474,Riyadh Space Research Institute,Commercial,Saudi Arabia
+475,"Space Research Institute, King Abdulaziz City for Science and Technology",Government,Saudi Arabia
+476,Strategic Space Command/Space Surveillance Network,Military,USA
+477,National Reconnaissance Office (NRO)/US Navy,Military,USA
+478,Instituto Nacional de Pesquisas Espaciais (INPE),Government,Brazil
+479,University of North Carolina - Wilmington,Civil,USA
+480,"SES S.A./EchoStar Satellite Services, LLC",Commercial,Luxembourg
+481,Telebras/Brazilian Air Force,Commercial/Military,Brazil
+482,Teen Satellite Project,Civil,China
+483,NASA Langley Research Center,Government,USA
+484,China Satellite Communication Corp. (China Satcom),Government,China
+485,China Aerospace Science and Technology Corporation (CASC) ,Government,China
+486,National Space Program,Government,Ukraine
+487,Italian Defense Ministry/Telespazio,Military/Commercial,Italy
+488,Italian Defense Ministry/French Defense Ministry,Military,France/Italy
+489,"ESA/Royal Meteorological Institute, Belgium",Government,ESA
+490,SRI International,Commercial,USA
+491,Sirius XM Holdings,Commercial,USA
+492,XM Satellite Radio USA,Commercial,USA
+493,China Siwei Surveying and Mapping Technology Co. Ltd.,Commercial,China
+494,Sky Mexico,Commercial,Mexico
+495,NBN Co (operated by Optus),Commercial,Australia
+496,DirecTV Latin America/Intelsat,Commercial,Brazil
+497,Intelsat/Paradigm Secure Communications (wholly owned by EADS Astrium),Military,United Kingdom
+498,Ministry of Defense/Paradigm Secure Communications (wholly owned by EADS Astrium),Military,United Kingdom
+499,LightSquared,Commercial,USA
+500,Centre National d'Etudes Spatiales (CNES)/European Space Agency (ESA),Government,ESA
+501,US Southern Command,Military,USA
+502,National Institute of Information and Communications Technology (JPN),Commercial,Japan
+503,Astrotech SOHLA,Civil,Japan
+504,Technical  University Dresden,Civil,Germany
+505,University of Würzburg,Civil,Germany
+506,"National Aeronautics and Space Administration (NASA) Earth Science Office/Laboratory for Atmospheric and Space Physics, Univ. of Colorado",Government/Civil,USA
+507,COSMIAC (Configurable Space Microsystems Innovations & Applications Center) ,Government,USA
+508,South Asian Association for Regional Cooperation,Government,India
+509,Swarm Technologies,Commercial,USA
+510,Hughes Space and Communications Co. ,Commercial,USA
+511,Hisdesat/Ministry of Defense,Military,Spain
+512,Air Force Research Laboratory/Swedish Defense Materiel Administration,Military,USA/Sweden
+513,Omnispace,Commercial,USA
+514,Endurosat,Commercial,Bulgaria
+515,Kyushu Institute of Technology (KIT)/Nanyang Technological University (NTU),Civil,Japan/Singapore
+516,Astro Space Center of Moscow/Russian Academy of Sciences,Government,Multinational
+517,Ministry of Defense/General Delegation for Ordnance (DGA),Military,France
+518,Spot Image,Commercial,France/Belgium/Sweden
+519,SRM University,Civil,India
+520,Government of Sudan,Government,Sudan
+521,Chilean Air Force,Government/Military,Chile
+522,Beihang University/APSCO,Civil,China
+523,Shanghai Jiao Tong University/APSCO,Civil,China
+524,Singapore Telecommunications Ltd. (SingTel)/Chunghwa Telecom Co. Ltd.,Commercial,Singapore/Taiwan
+525,SpaceX,Commercial,USA
+526,SatRevolution/Steamjet,Commercial,Poland/UK
+527,SatRevolution,Commercial,Poland
+528,Atlas 5,Military,USA
+529,Synspective,Commercial,Japan
+530,Missile Defense Agency (MDA),Military,USA
+531,University of Chile,Civil,Chile
+532,Sky Perfect JSAT Corporation/DSN Corp.,Commercial/Military,Japan
+533,Beijing Space View Technology,Commercial,China
+534,"College of Engineering, Pune",Civil,India
+535,Goddard Space Flight Center/Penn State University,Government/Civil,USA/United Kingdom/Italy
+536,Ecole Polytechnique Fédérale de Lausanne (EPFL),Civil,Switzerland
+537,Operational Responsive Space (ORS) Office,Military,USA
+538,"Beijing MinoSpace Technology Co., Ltd.",Commercial,China
+539,Minospace,Commercial,China
+540,German Aerospace Center (DLR)/Astrium,Government,Germany
+541,Alibaba,Commercial,China
+542,Orbit Fab,Commercial,USA
+543,Tel Aviv University,Civil,Israel
+544,National Aeronautics and Space Administration (NASA)/SES Americom (SES [Société Européenne des Satellites (SES)]),Government/Commercial,USA
+545,National Aeronautics and Space Administration (NASA)/Ames Research Center,Government,USA
+546,Teikyo University,Civil,Japan
+547,AgilSpace,Commercial,Singapore
+548,"Telesat Canada Ltd. (BCE, Inc.)/APT Satellite Holdings Ltd.",Commercial,Canada
+549,Colorado State University,Civil,USA
+550,German Aerospace Center (DLR)/Infoterra,Government/Commercial,Germany
+551,TerraStar Corporation,Commercial,USA
+552,Herzliya Science Center,Communications,Israel
+553,Thaicom Public Company Ltd. ,Commercial,Thailand
+554,"National Aeronautics and Space Administration (NASA)/University of California, Berkeley (in partnership with Germany, France, Austria, Canada)",Government/Civil,Multinational
+555,Geo-Informatics and Space Technology Development Agency (GISTDA),Government,Thailand
+556,Telenor Satellite Broadcasting,Commercial,Norway
+557,Thuraya Satellite Communications,Commercial,United Arab Emirates
+558,China Manned Space Engineering Office (CMSEO),Government,China
+559,Tianjin University,Civil,China
+560,China Aerospace Science and Industry Corp.,Government,China
+561,Chinese Academy of Launch Vehicle Technology (CASIC),Government,China
+562,Guodian Gaoke,Commercial,China
+563,Sun Yat-sen University,Civil,China
+564,"Insight Position Digital Intelligence Technology Service Co., Ltd. ",Commercial,China
+565,China Telecom,Government,China
+566,National University of Defense Technology,Government,China
+567,China Electronic Technology Group,Commercial,China
+568,Spacety Aerospace Company/ThrustMe,Commercial,China/France
+569,Spacety Aerospace Company/Changsha Gaoxinqu Tianyi Research Institute,Commercial,China
+570,Chinese Academy of Sciences (CAS)/China Academy of Space Technology,Government,China
+571,La Sapienza University of Rome,Civil,Iraq
+572,"National Aeronautics and Space Administration (NASA)/Applied Physics Laboratory, Johns Hopkins",Government/Civil,USA
+573,Bolivia Aerospace Bureau,Government,Bolivia
+574,University of Malibor/SkyLabs,Civil,Slovenia
+575,Tallinn University of Technology,Civil,Estonia
+576,Technical University of Graz,Civil,Austria
+577,Turkmenistan Ministry of Communications/SSI-Monaco,Government/Commercial,Turkmenistan/Monaco
+578,Turksat,Commercial,Turkey
+579,Elbit Systems,Commercial,Israel
+580,UK/DMC International Imaging (DMCII),Government,United Kingdom
+581,UMBRA,Commercial,USA
+582,Alba Orbital,Commercial,United Kingdom
+583,Wakayama University (UNIFORM consortium),Civil,Japan
+584,Polytechnic University of Madrid,Civil,Spain
+585,University of Versailles Saint-Quentin-en-Yvelines (UVSQ)/National Centre for Scientific Research (CNRS),Civil,France
+586,National Aeronautics and Space Administration (NASA)/Johns Hopkins University Applied Physics Laboratory,Government,USA
+587,Care Weather Technologies,Civil,USA
+588,Nanyang Technological University,Civil,Singapore
+589,Centre National d'Etudes Spatiales (CNES)/Israel Space Agency,Government,France/Israel
+590,"ViaSat, Inc.",Commercial,USA
+591,Vietnamese Posts and Telecommunications Group (VNPT),Government,Vietnam
+592,Space Technology Institute-Vietnam Academy of Science and Technology (STI-VAST),Government,Vietnam
+593,NASA/Carnegie Mellon University,Government/Civil,USA
+594,Bolivarian Agency for Space Activities,Government,Venezuela
+595,Czech Aerospace Research Center (VZLU),Government,Czech Republic
+596,"WarpSpace, Inc.",Commercial,Japan
+597,Shanghai Micro Satellite Engineering Center,Government,China
+598,Military Satellite Communications - US Air Force,Military,USA
+599,WildBlue Communications,Commercial,USA
+600,"La Sapienza University of Rome/Machakos University/University of Nairobi, Kenya",Civil,Italy
+601,"Weathernews, Inc.",Commercial,Japan
+602,Maxar Technologies Inc.,Commercial,USA
+603,MinoSpace Technology,Commercial,China
+604,Chengdu Guoxing Aerospace Technology Co. Ltd.,Commercial,China
+605,Xingyun Satellite Co.,Government,China
+606,DFH Satellite Co. Ltd.,Government,China
+607,European Space Operations Centre (ESOC),Government,ESA
+608,Centre for Research in Satellite Technology (CREST),Government,Singapore
+609,Ministry of Defense/XTAR,Military/Government,Spain
+610,DFH Satellite Co. Ltd./AMSAT-China,Civil,China
+611,Chinese Amateur Satellite (CAMSAT),Civil,China
+612,Loft Orbital/Fugro,Commercial,USA
+613,Loft Orbital,Commercial,USA
+614,Gazprom Space Systems,Commercial,Russia
+615,Bauman Moscow State Technical University,Civil,Russia
+616,GalaxySpace,Commercial,China
+617,Galaxy Space,Commercial,China
+618,Hubei University of Technology (HUT),Civil,China
+619,French South African Institute of Technology/Cape Peninsula University of Technology,Civil,South Africa
+620,China Earthquake Administration/Italian Institute for Nuclear Physics,Government,China/Italy
+621,Zhejiang University,Civil,China
+622,Zhuhai Orbita Control Engineering Co. Ltd.,Commercial,China
+623,Zhuhai Orbita Aerospace Science and Technology Co.,Commercial,China
+624,Mitsubishi Heavy Industries,Commercial,Japan

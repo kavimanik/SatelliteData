@@ -1,0 +1,536 @@
+StatellitesID,Name,Country,Orbit,PeriodOfTime,Mass,Power,DateOfLaunch,LifeExpectancy,LaunchSite
+0,Aalto-1,Finland,LEO,94.7,4.5,4.5,2017-06-23,2.0,Satish Dhawan Space Centre
+1,ABS-2,Multinational,GEO,1436.03,6330.0,16000,2014-02-06,15.0,Guiana Space Center
+2,ABS-4,Multinational,GEO,1436.1,4143.0,7400,2004-03-13,12.0,Cape Canaveral
+3,ABS-6,Multinational,GEO,1436.08,2894.0,"6,800 (EOL)",1999-09-26,15.0,Baikonur Cosmodrome
+4,Eutelsat 48D,Multinational,GEO,1436.08,3460.0,7000,2008-12-20,15.0,Guiana Space Center
+5,AIM,USA,LEO,96.2,215.0,216,2007-04-25,2.0,Vandenberg AFB
+6,Amazonas-2,Spain,GEO,1436.08,5465.0,15300,2009-10-01,15.0,Guiana Space Center
+7,Amazonas-3,Spain,GEO,1436.05,6265.0,14000,2013-02-07,15.0,Guiana Space Center
+8,AMC-1,USA,GEO,1436.1,2783.0,"6,500 (EOL)",1996-09-08,15.0,Cape Canaveral
+9,AMC-11,USA,GEO,1436.07,2340.0,"6,500 (EOL)",2004-05-19,15.0,Cape Canaveral
+10,AMC-21,USA,GEO,1436.1,2500.0,5000,2008-08-14,15.0,Guiana Space Center
+11,AMC-8,USA,GEO,1436.07,2015.0,3300,2000-12-19,15.0,Guiana Space Center
+12,Anik F1,Canada,GEO,1436.08,4710.0,"15,500 (EOL)",2000-11-21,15.0,Guiana Space Center
+13,Anik F1R,Canada,GEO,1436.1,4500.0,10000,2005-09-09,15.0,Baikonur Cosmodrome
+14,Anik F2,Canada,GEO,1436.08,5910.0,16000,2004-07-18,15.0,Guiana Space Center
+15,Anik F3,Canada,GEO,1436.1,4715.0,17500,2007-04-09,15.0,Baikonur Cosmodrome
+16,Anik G1,Canada,GEO,1436.08,4905.0,17500,2013-04-15,15.0,Baikonur Cosmodrome
+17,Apstar 9,China,GEO,1436.01,5200.0,10500,2015-10-16,15.0,Xichang Satellite Launch Center
+18,Arabsat 6A,Multinational,GEO,1436.0,6465.0,20000,2019-04-11,15.0,Cape Canaveral
+19,Arktika-M1,Russia,Elliptical,717.8,2200.0,2000,2021-02-28,7.0,Baikonur Cosmodrome
+20,ArSat 2,Argentina,GEO,1436.06,2977.0,4600,2015-09-30,15.0,Guiana Space Center
+21,AsiaSat-8,China,GEO,1436.1,4500.0,8500,2014-08-05,15.0,Cape Canaveral
+22,AsiaStar,USA,GEO,1436.15,2775.0,5600,2000-03-21,15.0,Guiana Space Center
+23,Astra 1G,Luxembourg,GEO,1436.08,3379.0,6600,1997-12-02,15.0,Baikonur Cosmodrome
+24,Astra 1KR,Luxembourg,GEO,1436.1,4332.0,12000,2006-04-20,15.0,Cape Canaveral
+25,Astra 1L,Luxembourg,GEO,1436.03,4500.0,13000,2007-05-04,15.0,Guiana Space Center
+26,Astra 1M,Luxembourg,GEO,1438.2,5345.0,9900,2008-11-05,15.0,Baikonur Cosmodrome
+27,Astra 2A,Luxembourg,GEO,1436.12,3635.0,7000,1998-08-30,15.0,Baikonur Cosmodrome
+28,Astra 2C,Luxembourg,GEO,1436.12,3643.0,7000,2001-06-16,15.0,Baikonur Cosmodrome
+29,Astra 2D,Luxembourg,GEO,1436.1,1420.0,1500,2000-12-19,15.0,Guiana Space Center
+30,Astra 2E,Luxembourg,GEO,1436.12,6052.0,13000,2013-09-29,15.0,Baikonur Cosmodrome
+31,Astra 2G,Luxembourg,GEO,1436.11,6000.0,13000,2014-12-27,15.0,Baikonur Cosmodrome
+32,Astra 3A,Luxembourg,GEO,1436.07,1500.0,1500,2002-03-29,10.0,Guiana Space Center
+33,Astra 3B,Luxembourg,GEO,1436.11,5471.0,10000,2010-05-21,15.0,Guiana Space Center
+34,Badr 6,Multinational,GEO,1436.1,3400.0,6000,2008-07-07,15.0,Guiana Space Center
+35,BeijinGalaxy-1,China,LEO,98.6,166.0,50,2005-10-27,7.0,Plesetsk Cosmodrome
+36,Bispectral InfraRed Detector 2 (Bird 2),Germany,LEO,94.8,92.0,120,2001-10-22,1.5,Satish Dhawan Space Centre
+37,BKA 2,Belarus,LEO,94.7,400.0,300,2012-07-22,5.0,Baikonur Cosmodrome
+38,Brazilsat B-4,Brazil,GEO,1436.09,2495.0,"1,800 (BOL)",2000-08-17,12.0,Guiana Space Center
+39,Calipso,France/USA,LEO,98.8,587.0,550,2006-04-28,3.0,Vandenberg AFB
+40,CartoSat 1,India,LEO,97.1,1560.0,1100,2005-05-05,6.0,Satish Dhawan Space Centre
+41,Cassiope,Canada,LEO,103.11,490.0,600,2013-09-29,2.0,Vandenberg AFB
+42,CBERS 4,China/Brazil,LEO,99.67,1980.0,2300,2014-12-07,3.0,Taiyuan Launch Center
+43,CBERS 4A,China/Brazil,LEO,97.2,1980.0,2100,2019-12-21,5.0,Taiyuan Launch Center
+44,Chandra X-Ray Observatory (CXO),USA,Elliptical,3808.92,4742.0,2500,1999-07-23,5.0,Cape Canaveral
+45,Cloudsat,USA,LEO,98.8,848.0,570,2006-04-28,2.0,Vandenberg AFB
+46,COMSATBw-1,Germany,GEO,1436.1,2440.0,3500,2009-10-01,15.0,Guiana Space Center
+47,COMSATBw-2,Germany,GEO,1436.11,2440.0,3500,2010-05-21,15.0,Guiana Space Center
+48,Coriolis,USA,LEO,101.5,817.0,1174,2003-01-06,3.0,Vandenberg AFB
+49,COSMIC-A,Taiwan/USA,LEO,100.9,70.0,46,2006-04-15,2.0,Vandenberg AFB
+50,COSMIC-B,Taiwan/USA,LEO,100.9,70.0,46,2006-04-15,2.0,Vandenberg AFB
+51,COSMIC-D,Taiwan/USA,LEO,98.9,70.0,46,2006-04-15,2.0,Vandenberg AFB
+52,COSMIC-E,Taiwan/USA,LEO,100.9,70.0,46,2006-04-15,2.0,Vandenberg AFB
+53,COSMIC-F,Taiwan/USA,LEO,100.9,70.0,46,2006-04-15,2.0,Vandenberg AFB
+54,COSMO-Skymed 1,Italy,LEO,97.2,1700.0,3600,2007-06-08,5.0,Vandenberg AFB
+55,Daichi-2,Japan,LEO,97.36,2120.0,5200,2014-05-24,7.0,Tanegashima Space Center
+56,Deimos 2,Spain,LEO,96.85,310.0,450,2014-06-19,10.0,Dombarovsky Air Base
+57,DirecTV-10,USA,GEO,1436.1,5900.0,18000,2007-07-07,15.0,Baikonur Cosmodrome
+58,DirecTV-12,USA,GEO,1436.04,5900.0,"8,700 (BOL)",2009-12-29,15.0,Baikonur Cosmodrome
+59,DirecTV-14,USA,GEO,1443.51,5900.0,20000,2014-12-06,15.0,Guiana Space Center
+60,DirecTV-8,USA,GEO,1436.1,3800.0,8200,2005-05-22,12.0,Baikonur Cosmodrome
+61,DirecTV-9S,USA,GEO,1436.1,5500.0,13900,2006-10-13,15.0,Guiana Space Center
+62,DLR Tubsat,Germany,LEO,99.2,45.0,120,1999-05-26,1.0,Satish Dhawan Space Centre
+63,USA 131,USA,LEO,101.9,1134.0,900,1997-04-04,5.0,Vandenberg AFB
+64,USA 147,USA,LEO,101.8,1152.0,900,1999-12-12,5.0,Vandenberg AFB
+65,USA 172,USA,LEO,101.87,1154.0,900,2003-10-18,5.0,Vandenberg AFB
+66,USA 173,USA,LEO,101.89,1154.0,900,2006-11-04,5.0,Vandenberg AFB
+67,USA 210,USA,LEO,101.94,1155.0,900,2009-10-18,5.0,Vandenberg AFB
+68,USA 167,USA,GEO,1436.12,1156.0,1240,2003-03-11,10.0,Cape Canaveral
+69,USA 170,USA,GEO,1436.1,1156.0,1240,2003-08-29,10.0,Cape Canaveral
+70,USA 135,USA,GEO,1436.1,1156.0,1240,1997-10-24,10.0,Cape Canaveral
+71,USA 148,USA,GEO,1436.13,1156.0,1240,2000-01-01,10.0,Cape Canaveral
+72,USA 153,USA,GEO,1436.12,1156.0,1240,2000-10-20,10.0,Cape Canaveral
+73,USA 113,USA,GEO,1436.1,1156.0,1240,1995-07-31,10.0,Cape Canaveral
+74,USA 149,USA,GEO,142.08,2380.0,1485,2000-05-18,9.0,Cape Canaveral
+75,USA 159,USA,GEO,1436.14,2380.0,1485,2001-08-06,9.0,Cape Canaveral
+76,USA 176,USA,GEO,1436.12,2380.0,1485,2004-02-14,9.0,Cape Canaveral
+77,DubaiSat-2,United Arab Emirates,LEO,96.56,300.0,360,2013-11-21,5.0,Dombarovsky Air Base
+78,Eagle-1,USA,GEO,1436.08,2845.0,"6,500 (EOL)",1997-09-04,15.0,Cape Canaveral
+79,Echostar 10,USA,GEO,1436.0,4333.0,10000,2006-02-15,15.0,Sea Launch Odyssey
+80,Echostar 11,USA,GEO,1436.1,5500.0,20000,2008-07-16,15.0,Sea Launch Odyssey
+81,Echostar 14,USA,GEO,1436.11,6384.0,20000,2010-03-20,15.0,Baikonur Cosmodrome
+82,Echostar 15,USA,GEO,1436.57,5521.0,20000,2010-07-10,15.0,Baikonur Cosmodrome
+83,Echostar 17,USA,GEO,1436.13,6100.0,16100,2012-07-05,15.0,Guiana Space Center
+84,Echostar 7 ,USA,GEO,1436.07,4027.0,13000,2002-02-21,12.0,Cape Canaveral
+85,Echostar G1,USA,GEO,1436.1,6600.0,16000,2008-04-14,15.0,Cape Canaveral
+86,Terra,USA/Canada/Japan,LEO,98.8,4854.0,2530,1999-12-18,6.0,Vandenberg AFB
+87,Aura,USA,LEO,98.8,2967.0,"4,600 (EOL)",2004-07-15,5.0,Vandenberg AFB
+88,Aqua,USA/Japan/Brazil,LEO,98.8,2934.0,"4,860 (EOL)",2002-05-04,6.0,Vandenberg AFB
+89,ERG,Japan,Elliptical,580.0,350.0,750,2016-12-20,1.0,Uchinoura Space Center
+90,EROS B-1,Israel,LEO,94.8,350.0,800,2006-04-25,10.0,Svobodny Cosmodrome
+91,Eutelsat 113 West A,Multinational,GEO,1436.1,5456.0,"12,690 (EOL)",2006-05-27,15.0,Guiana Space Center
+92,Eutelsat 117 West A,Multinational,GEO,1436.1,5474.0,"12,690 (EOL)",2013-03-26,15.0,Baikonur Cosmodrome
+93,Eutelsat 117 West B,Multinational,GEO,1436.1,5500.0,13000,2016-06-15,15.0,Cape Canaveral
+94,Eutelsat 133 West A,Multinational,GEO,1436.1,2950.0,5900,2001-03-08,12.0,Guiana Space Center
+95,Eutelsat 174A,Multinational,GEO,1436.1,5000.0,13000,2005-12-29,16.0,Baikonur Cosmodrome
+96,Eutelsat 33E,Multinational,GEO,1436.07,4892.0,11000,2009-02-11,15.0,Guiana Space Center
+97,Eutelsat 36A,Multinational,GEO,1436.08,3190.0,6000,2000-05-24,12.0,Cape Canaveral
+98,Eutelsat 36B,Multinational,GEO,1436.09,5600.0,13200,2009-11-24,15.0,Baikonur Cosmodrome
+99,Eutelsat 5 West A,Multinational,GEO,1436.08,4050.0,11000,2002-07-05,15.0,Guiana Space Center
+100,Eutelsat 65 West A,Multinational,GEO,1436.07,6654.0,16000,2016-03-09,15.0,Guiana Space Center
+101,Eutelsat 7 West A,Multinational,GEO,1436.09,4600.0,12000,2011-09-24,15.0,Sea Launch Odyssey
+102,Eutelsat Hot Bird 13B,Multinational,GEO,1436.06,4900.0,14000,2006-08-04,15.0,Baikonur Cosmodrome
+103,Eutelsat Hot Bird 13C,Multinational,GEO,1436.09,4880.0,14500,2008-12-20,15.0,Guiana Space Center
+104,Eutelsat Hot Bird 13E,Multinational,GEO,1436.1,4100.0,10000,2006-03-11,15.0,Guiana Space Center
+105,Eutelsat KA-SAT 9A,Multinational,GEO,1436.01,6150.0,11000,2010-12-26,15.0,Baikonur Cosmodrome
+106,Express-AM3,Russia,GEO,1436.1,2600.0,4200,2005-06-24,12.0,Baikonur Cosmodrome
+107,Express-AM6,Russia,GEO,1440.09,3358.0,14000,2014-10-21,15.0,Baikonur Cosmodrome
+108,Express-AM7,Russia,GEO,1436.1,5720.0,18000,2015-03-18,15.0,Baikonur Cosmodrome
+109,FORTÉ ,USA,LEO,101.0,215.0,55,1997-08-29,3.0,Vandenberg AFB
+110,Galaxy-11,USA,GEO,1436.11,4488.0,10400,1999-01-21,14.0,Guiana Space Center
+111,Galaxy-13,USA/Japan,GEO,1436.07,4060.0,8600,2003-10-01,15.0,Sea Launch Odyssey
+112,Galaxy-14,USA,GEO,1436.07,2086.0,4700,2005-08-13,15.0,Baikonur Cosmodrome
+113,Galaxy-15,USA,GEO,1436.07,2033.0,4700,2005-10-13,15.0,Guiana Space Center
+114,Galaxy-16,USA,GEO,1436.1,4640.0,10000,2006-06-18,15.0,Sea Launch Odyssey
+115,Galaxy-17,USA,GEO,1436.1,4100.0,9500,2007-05-04,15.0,Guiana Space Center
+116,Galaxy-28,USA,GEO,1436.1,5493.0,16000,2005-06-23,13.0,Sea Launch Odyssey
+117,Galaxy-3C,USA,GEO,1436.11,4860.0,18000,2002-06-15,15.0,Sea Launch Odyssey
+118,Galileo IOV-1 FM2,ESA,MEO,846.98,700.0,1420,2011-10-21,12.0,Guiana Space Center
+119,Galileo IOV-1 PFM,ESA,MEO,846.88,700.0,1420,2011-10-21,12.0,Guiana Space Center
+120,Galileo IOV-2 FM3,ESA,MEO,844.76,700.0,1420,2012-10-12,12.0,Guiana Space Center
+121,Galileo IOV-2 FM4,ESA,MEO,844.69,700.0,1420,2012-10-12,12.0,Guiana Space Center
+122,GEO-Kompsat-2A,South Korea,GEO,1436.04,3507.0,2600,2018-12-04,10.0,Guiana Space Center
+123,GCOM-1,USA/Japan,LEO,98.8,1900.0,4.05,2012-05-17,5.0,Tanegashima Space Center
+124,Globalstar FM37,USA,LEO,114.1,450.0,1500,1999-03-15,10.0,Baikonur Cosmodrome
+125,Globalstar M065,USA,LEO,114.1,450.0,1500,2007-05-29,10.0,Baikonur Cosmodrome
+126,Globalstar M066,USA,LEO,114.1,450.0,1500,2007-10-20,10.0,Baikonur Cosmodrome
+127,Globalstar M067,USA,LEO,114.1,450.0,1500,2007-10-20,10.0,Baikonur Cosmodrome
+128,Globalstar M069,USA,LEO,114.1,450.0,1500,2007-05-29,10.0,Baikonur Cosmodrome
+129,Globalstar M070,USA,LEO,114.1,450.0,1500,2007-10-20,10.0,Baikonur Cosmodrome
+130,Globalstar M071,USA,LEO,114.1,450.0,1500,2007-05-29,10.0,Baikonur Cosmodrome
+131,Globalstar M072,USA,LEO,114.1,450.0,1500,2007-05-29,10.0,Baikonur Cosmodrome
+132,Globalstar M073,USA,LEO,114.1,700.0,1700,2010-10-19,15.0,Baikonur Cosmodrome
+133,Globalstar M074,USA,LEO,114.1,700.0,1700,2010-10-19,15.0,Baikonur Cosmodrome
+134,Globalstar M075,USA,LEO,114.1,700.0,1700,2010-10-19,15.0,Baikonur Cosmodrome
+135,Globalstar M076,USA,LEO,114.1,700.0,1700,2010-10-19,15.0,Baikonur Cosmodrome
+136,Globalstar M077,USA,LEO,114.1,700.0,1700,2010-10-19,15.0,Baikonur Cosmodrome
+137,Globalstar M078,USA,LEO,114.08,700.0,1700,2013-02-06,15.0,Baikonur Cosmodrome
+138,Globalstar M079,USA,LEO,114.1,700.0,1700,2010-10-19,15.0,Baikonur Cosmodrome
+139,Globalstar M080,USA,LEO,114.1,700.0,1700,2011-12-28,15.0,Baikonur Cosmodrome
+140,Globalstar M081,USA,LEO,114.1,700.0,1700,2011-07-13,15.0,Baikonur Cosmodrome
+141,Globalstar M082,USA,LEO,114.1,700.0,1700,2011-12-28,15.0,Baikonur Cosmodrome
+142,Globalstar M083,USA,LEO,114.1,700.0,1700,2011-07-13,15.0,Baikonur Cosmodrome
+143,Globalstar M084,USA,LEO,114.1,700.0,1700,2011-12-28,15.0,Baikonur Cosmodrome
+144,Globalstar M085,USA,LEO,114.1,700.0,1700,2011-07-13,15.0,Baikonur Cosmodrome
+145,Globalstar M086,USA,LEO,114.1,700.0,1700,2011-12-28,15.0,Baikonur Cosmodrome
+146,Globalstar M088,USA,LEO,114.1,700.0,1700,2011-07-13,15.0,Baikonur Cosmodrome
+147,Globalstar M089,USA,LEO,118.2,700.0,1700,2011-07-13,15.0,Baikonur Cosmodrome
+148,Globalstar M090,USA,LEO,114.1,700.0,1700,2011-12-28,15.0,Baikonur Cosmodrome
+149,Globalstar M091,USA,LEO,114.1,700.0,1700,2011-07-13,15.0,Baikonur Cosmodrome
+150,Globalstar M092,USA,LEO,114.1,700.0,1700,2011-12-28,15.0,Baikonur Cosmodrome
+151,Globalstar M093,USA,LEO,113.35,700.0,1700,2013-02-06,15.0,Baikonur Cosmodrome
+152,Globalstar M094,USA,LEO,103.44,700.0,1700,2013-02-06,15.0,Baikonur Cosmodrome
+153,Globalstar M095,USA,LEO,114.08,700.0,1700,2013-02-06,15.0,Baikonur Cosmodrome
+154,Globalstar M096,USA,LEO,103.48,700.0,1700,2013-02-06,15.0,Baikonur Cosmodrome
+155,Globalstar M097,USA,LEO,113.96,700.0,1700,2013-02-06,15.0,Baikonur Cosmodrome
+156,Cosmos 2471,Russia,MEO,675.78,935.0,1700,2011-02-26,10.0,Plesetsk Cosmodrome
+157,Cosmos 2501,Russia,MEO,676.15,935.0,1700,2014-12-01,10.0,Plesetsk Cosmodrome
+158,Cosmos 2547,Russia,MEO,675.5,1415.0,1000,2020-10-25,7.0,Plesetsk Cosmodrome
+159,Cosmos 2425,Russia,MEO,675.75,1480.0,1600,2006-12-25,7.0,Baikonur Cosmodrome
+160,Cosmos 2426,Russia,MEO,675.75,1480.0,1600,2006-12-25,7.0,Baikonur Cosmodrome
+161,Cosmos 2432,Russia,MEO,675.83,1480.0,1600,2007-10-26,7.0,Baikonur Cosmodrome
+162,Cosmos 2433,Russia,MEO,675.67,1480.0,1600,2007-10-26,7.0,Baikonur Cosmodrome
+163,Cosmos 2434,Russia,MEO,680.91,1480.0,1600,2007-12-25,7.0,Baikonur Cosmodrome
+164,Cosmos 2436,Russia,MEO,680.75,1480.0,1600,2007-12-25,7.0,Baikonur Cosmodrome
+165,Cosmos 2456,Russia,MEO,681.53,1415.0,1000,2009-12-14,7.0,Baikonur Cosmodrome
+166,Cosmos 2459,Russia,MEO,675.85,1415.0,1000,2010-03-01,7.0,Baikonur Cosmodrome
+167,Cosmos 2460,Russia,MEO,675.81,1415.0,1000,2010-03-01,7.0,Baikonur Cosmodrome
+168,Cosmos 2457,Russia,MEO,670.47,1415.0,1000,2009-12-14,7.0,Baikonur Cosmodrome
+169,Cosmos 2461,Russia,MEO,675.81,1415.0,1000,2010-03-01,7.0,Baikonur Cosmodrome
+170,Cosmos 2464,Russia,MEO,671.2,1415.0,1000,2010-09-02,7.0,Baikonur Cosmodrome
+171,Cosmos 2476,Russia,MEO,677.46,1415.0,1000,2011-11-04,7.0,Baikonur Cosmodrome
+172,Cosmos 2477,Russia,MEO,677.5,1415.0,1000,2011-11-04,7.0,Baikonur Cosmodrome
+173,Cosmos 2475,Russia,MEO,677.54,1415.0,1000,2011-11-04,7.0,Baikonur Cosmodrome
+174,Cosmos 2485,Russia,MEO,675.73,1415.0,1000,2013-04-26,7.0,Plesetsk Cosmodrome
+175,Cosmos 2514,Russia,MEO,675.75,1415.0,1000,2016-02-07,7.0,Plesetsk Cosmodrome
+176,Cosmos 2522,Russia,MEO,675.75,1415.0,1000,2017-09-22,7.0,Plesetsk Cosmodrome
+177,Cosmos 2516,Russia,MEO,675.49,1415.0,1000,2016-05-29,7.0,Plesetsk Cosmodrome
+178,Cosmos 2500,Russia,MEO,675.73,1415.0,1000,2014-06-14,7.0,Plesetsk Cosmodrome
+179,Cosmos 2527,Russia,MEO,676.03,1415.0,1000,2018-06-18,7.0,Plesetsk Cosmodrome
+180,Cosmos 2529,Russia,MEO,767.2,1415.0,1000,2018-11-03,7.0,Plesetsk Cosmodrome
+181,Cosmos 2534,Russia,MEO,675.7,1415.0,1000,2019-05-27,7.0,Plesetsk Cosmodrome
+182,Cosmos 2544,Russia,MEO,673.1,1415.0,1000,2019-12-11,7.0,Plesetsk Cosmodrome
+183,Cosmos 2545,Russia,MEO,676.2,1415.0,1000,2020-02-16,7.0,Plesetsk Cosmodrome
+184,GOES-13,USA,GEO,1436.0,3200.0,2300,2006-05-24,7.0,Cape Canaveral
+185,GOES-14,USA,GEO,1436.0,3200.0,2300,2009-06-27,10.0,Cape Canaveral
+186,GOES-15,USA,GEO,1436.14,3175.0,2300,2010-03-04,10.0,Cape Canaveral
+187,Gonets M-11,Russia,LEO,116.0,280.0,120,2015-03-31,7.0,Plesetsk Cosmodrome
+188,Gonets M-12,Russia,LEO,116.0,280.0,120,2015-03-31,7.0,Plesetsk Cosmodrome
+189,Gonets M-13,Russia,LEO,116.0,280.0,120,2015-03-31,7.0,Plesetsk Cosmodrome
+190,Gonets M-14,Russia,LEO,115.86,270.0,120,2013-09-11,7.0,Plesetsk Cosmodrome
+191,Gonets M-16,Russia,LEO,116.0,270.0,120,2013-09-11,7.0,Plesetsk Cosmodrome
+192,Gonets M-17,Russia,LEO,116.02,270.0,120,2013-09-11,7.0,Plesetsk Cosmodrome
+193,Gonets M-18,Russia,LEO,115.87,280.0,120,2014-07-03,7.0,Plesetsk Cosmodrome
+194,Gonets M-19,Russia,LEO,115.89,280.0,120,2014-07-03,7.0,Plesetsk Cosmodrome
+195,Gonets M-20,Russia,LEO,115.84,280.0,120,2014-07-03,7.0,Plesetsk Cosmodrome
+196,Gonets-M-24,Russia,LEO,116.01,280.0,120,2019-12-26,7.0,Plesetsk Cosmodrome
+197,Gonets M-25,Russia,LEO,116.01,280.0,120,2019-12-26,7.0,Plesetsk Cosmodrome
+198,Gonets M-26,Russia,LEO,116.01,280.0,120,2019-12-26,7.0,Plesetsk Cosmodrome
+199,Gonets M-27,Russia,LEO,116.01,280.0,120,2020-09-28,7.0,Plesetsk Cosmodrome
+200,Gonets M-28,Russia,LEO,116.01,280.0,120,2020-09-28,7.0,Plesetsk Cosmodrome
+201,Gonets M-29,Russia,LEO,116.01,280.0,120,2020-09-28,7.0,Plesetsk Cosmodrome
+202,Gonets M-30,Russia,LEO,115.9,280.0,120,2020-12-03,7.0,Plesetsk Cosmodrome
+203,Gonets M-31,Russia,LEO,115.9,280.0,120,2020-12-03,7.0,Plesetsk Cosmodrome
+204,Gonets M-32,Russia,LEO,115.9,280.0,120,2020-12-03,7.0,Plesetsk Cosmodrome
+205,Ibuki,Japan,LEO,98.1,1750.0,3800,2009-01-23,5.0,Tanegashima Space Center
+206,GSAT-12,India,GEO,1436.1,1410.0,1430,2011-07-15,8.0,Satish Dhawan Space Centre
+207,GSAT-31,India,GEO,1436.1,2536.0,4700,2019-02-05,15.0,Guiana Space Center
+208,GSAT-6,India,GEO,1436.1,2110.0,3100,2015-08-27,12.0,Satish Dhawan Space Centre
+209,GSAT-8,India,GEO,1436.23,3093.0,6250,2011-05-20,12.0,Guiana Space Center
+210,Helios 2A,France/Italy/Belgium/Spain/Greece,LEO,98.0,4200.0,2900,2004-12-18,5.0,Guiana Space Center
+211,Helios 2B,France/Italy/Belgium/Spain/Greece,LEO,98.37,4200.0,2900,2009-12-18,5.0,Guiana Space Center
+212,HellasSat-2,Greece,GEO,1436.08,3300.0,7600,2003-05-12,15.0,Cape Canaveral
+213,RHESSI,USA,LEO,95.5,293.0,414,2002-02-05,3.0,Cape Canaveral
+214,Himawari 8,Japan,GEO,1436.06,3500.0,2600,2014-10-07,8.0,Tanegashima Space Center
+215,Himawari 9,Japan,GEO,1436.1,3500.0,2600,2016-11-02,8.0,Tanegashima Space Center
+216,Hinode,Multinational,LEO,98.4,700.0,1000,2006-10-22,3.0,Uchinoura Space Center
+217,Hisaki,Japan,Elliptical,106.27,348.0,900,2013-09-14,1.0,Uchinoura Space Center
+218,Hispasat 1D,Spain,GEO,1436.11,3288.0,6200,2002-09-18,15.0,Cape Canaveral
+219,Hispasat 1E,Spain,GEO,1435.95,5320.0,14000,2010-12-29,15.0,Guiana Space Center
+220,Hispasat 36W-1,Spain,GEO,1436.1,3220.0,6000,2017-01-28,15.0,Guiana Space Center
+221,Horizons 2,USA/Japan,GEO,1436.1,2300.0,4700,2007-12-21,15.0,Guiana Space Center
+222,Hubble Space Telescope,ESA/USA,LEO,95.8,11110.0,2400,1990-04-25,10.0,Cape Canaveral
+223,INMARSAT 3 F5,United Kingdom,GEO,1436.07,2000.0,2800,1998-02-04,13.0,Guiana Space Center
+224,INMARSAT 4 F1,United Kingdom,GEO,1436.08,5959.0,13000,2005-03-11,15.0,Cape Canaveral
+225,INMARSAT 4 F2,United Kingdom,GEO,1436.11,5458.0,13000,2005-11-08,15.0,Sea Launch Odyssey
+226,INMARSAT 4 F3,United Kingdom,GEO,1436.1,5960.0,13000,2008-08-18,15.0,Baikonur Cosmodrome
+227,INMARSAT 4-A F4,United Kingdom/ESA,GEO,1436.09,6650.0,12000,2013-07-25,15.0,Guiana Space Center
+228,INMARSAT 5 F1,United Kingdom,GEO,1436.13,6070.0,13000,2013-12-08,15.0,Baikonur Cosmodrome
+229,INMARSAT 5 F2,United Kingdom,GEO,1436.0,6105.0,13000,2015-02-01,15.0,Baikonur Cosmodrome
+230,INMARSAT 5 F3,United Kingdom,GEO,1436.1,6100.0,15000,2015-08-28,15.0,Baikonur Cosmodrome
+231,INTEGRAL,ESA/USA/Russia,Elliptical,4032.86,4000.0,2000,2002-10-17,2.0,Baikonur Cosmodrome
+232,Intelsat 10,USA,GEO,1436.08,3739.0,9600,2001-05-14,15.0,Baikonur Cosmodrome
+233,Intelsat 10-02,USA,GEO,1436.08,5576.0,11000,2004-06-16,13.0,Baikonur Cosmodrome
+234,Intelsat 12,USA,GEO,1436.09,4167.0,12000,2000-10-29,18.0,Guiana Space Center
+235,Intelsat 15,USA,GEO,1436.12,2550.0,4600,2009-11-30,17.0,Baikonur Cosmodrome
+236,Intelsat 16,USA,GEO,1436.19,2450.0,4500,2010-02-12,15.0,Baikonur Cosmodrome
+237,Intelsat 19,USA,GEO,1436.01,5600.0,15000,2012-06-01,15.0,Sea Launch Odyssey
+238,Intelsat 1R,USA,GEO,1436.11,4793.0,15000,2000-11-15,15.0,Guiana Space Center
+239,Intelsat 20,USA,GEO,1436.03,6094.0,19300,2012-08-02,18.0,Guiana Space Center
+240,Intelsat 25,USA,GEO,1436.1,4100.0,11000,2008-07-07,16.0,Guiana Space Center
+241,Intelsat 5,USA,GEO,1436.09,2730.0,9700,1997-08-28,15.0,Baikonur Cosmodrome
+242,Intelsat 9,USA,GEO,1436.14,3659.0,9900,2000-07-28,15.0,Sea Launch Odyssey
+243,Intelsat 901,USA,GEO,1436.12,4723.0,10000,2001-06-09,13.0,Cape Canaveral
+244,Intelsat 902,USA,GEO,1436.1,4723.0,8500,2001-08-30,13.0,Guiana Space Center
+245,Intelsat 904,USA,GEO,1436.07,4680.0,8500,2002-02-23,13.0,Baikonur Cosmodrome
+246,Intelsat 905,USA,GEO,1436.12,4723.0,10000,2002-06-05,13.0,Guiana Space Center
+247,Intelsat 906,USA,GEO,1436.07,4723.0,7000,2002-09-06,13.0,Guiana Space Center
+248,Intelsat New Dawn,USA,GEO,1439.15,3000.0,4800,2011-04-22,15.0,Guiana Space Center
+249,Iridium Next 102,USA,LEO,97.0,860.0,50,2017-01-14,15.0,Vandenberg AFB
+250,Iridium Next 103,USA,LEO,97.0,860.0,50,2017-01-14,15.0,Vandenberg AFB
+251,Iridium Next 104,USA,LEO,96.9,860.0,50,2017-01-14,15.0,Vandenberg AFB
+252,Iridium Next 105,USA,LEO,97.0,860.0,50,2017-01-14,15.0,Vandenberg AFB
+253,Iridium Next 106,USA,LEO,98.8,860.0,50,2017-01-14,15.0,Vandenberg AFB
+254,Iridium Next 107,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+255,Iridium Next 108,USA,LEO,96.9,860.0,50,2017-01-14,15.0,Vandenberg AFB
+256,Iridium Next 109,USA,LEO,97.0,860.0,50,2017-01-14,15.0,Vandenberg AFB
+257,Iridium Next 110,USA,LEO,96.7,860.0,50,2018-05-22,15.0,Vandenberg AFB
+258,Iridium Next 111,USA,LEO,96.9,860.0,50,2017-01-14,15.0,Vandenberg AFB
+259,Iridium Next 112,USA,LEO,96.9,860.0,50,2017-01-14,15.0,Vandenberg AFB
+260,Iridium Next 113,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+261,Iridium Next 114,USA,LEO,96.9,860.0,50,2017-01-14,15.0,Vandenberg AFB
+262,Iridium Next 115,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+263,Iridium Next 116,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+264,Iridium Next 117,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+265,Iridium Next 118,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+266,Iridium Next 119,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+267,Iridium Next 120,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+268,Iridium Next 121,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+269,Iridium Next 122,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+270,Iridium Next 123,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+271,Iridium Next 124,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+272,Iridium Next 125,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+273,Iridium Next 126,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+274,Iridium Next 127,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+275,Iridium Next 128,USA,LEO,97.0,860.0,50,2017-06-25,15.0,Vandenberg AFB
+276,Iridium Next 129,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+277,Iridium Next 130,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+278,Iridium Next 131,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+279,Iridium Next 132,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+280,Iridium Next 133,USA,LEO,97.2,860.0,50,2017-10-09,15.0,Vandenberg AFB
+281,Iridium Next 134,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+282,Iridium Next 135,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+283,Iridium Next 136,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+284,Iridium Next 137,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+285,Iridium Next 138,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+286,Iridium Next 139,USA,LEO,97.0,860.0,50,2017-10-09,15.0,Vandenberg AFB
+287,Iridium Next 140,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+288,Iridium Next 141,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+289,Iridium  Next 142,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+290,Iridium Next 143,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+291,Iridium Next 144,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+292,Iridium Next 145,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+293,Iridium Next 146,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+294,Iridium Next 147,USA,LEO,96.7,860.0,50,2018-05-22,15.0,Vandenberg AFB
+295,Iriidium Next 148,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+296,Iridium Next 149,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+297,Iridium Next 150,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+298,Iridium Next 151,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+299,Iridium Next 152,USA,LEO,96.7,860.0,50,2018-05-22,15.0,Vandenberg AFB
+300,Iridium Next 153,USA,LEO,97.0,860.0,50,2017-12-23,15.0,Vandenberg AFB
+301,Iridium Next 154,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+302,Iridium Next 155,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+303,Iridium Next 156,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+304,Iridium Next 157,USA,LEO,97.0,860.0,50,2018-03-30,15.0,Vandenberg AFB
+305,Iridium Next 158,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+306,Iridum Next 159,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+307,Iridium Next 160,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+308,Iridium Next 161,USA,LEO,96.7,860.0,50,2018-05-22,15.0,Vandenberg AFB
+309,Iridium Next 162,USA,LEO,96.7,860.0,50,2018-05-22,15.0,Vandenberg AFB
+310,Iridium Next 163,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+311,Iridium Next 164,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+312,Iridium Next 165,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+313,Iridium Next 166,USA,LEO,97.0,860.0,50,2018-07-25,15.0,Vandenberg AFB
+314,Iridium Next 167,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+315,Iridium Next 168,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+316,Iridium Next 169,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+317,Iridium Next 170,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+318,Iridium Next 171,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+319,Iridium Next 172,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+320,Iridium Next 173,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+321,Iridium Next 175,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+322,Iridium Next 176,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+323,Iridium Next 180,USA,LEO,97.0,860.0,50,2019-01-11,15.0,Vandenberg AFB
+324,IRIS,USA,LEO,97.5,236.0,50,2013-06-28,2.0,Vandenberg AFB
+325,IRNSS-1A,India,GEO,1436.0,1425.0,1660,2013-07-01,12.0,Satish Dhawan Space Centre
+326,IRNSS-1B,India,GEO,1436.14,1432.0,1660,2014-04-04,12.0,Satish Dhawan Space Centre
+327,IRNSS-1C,India,GEO,1435.8,1425.0,1660,2014-10-15,12.0,Satish Dhawan Space Centre
+328,IRNSS-1D,India,GEO,1435.06,1425.0,1600,2015-03-30,12.0,Satish Dhawan Space Centre
+329,IRNSS-1E,India,GEO,1436.01,1425.0,1600,2016-01-20,12.0,Satish Dhawan Space Centre
+330,IRNSS-1F,India,GEO,1436.13,1425.0,1600,2016-03-10,12.0,Satish Dhawan Space Centre
+331,IRNSS-1G,India,GEO,1436.05,1425.0,1600,2016-04-28,12.0,Satish Dhawan Space Centre
+332,IRNSS-1I,India,GEO,1436.1,1425.0,1600,2018-04-11,10.0,Satish Dhawan Space Centre
+333,IRS-P6,India,LEO,101.3,1360.0,1200,2003-10-17,5.0,Satish Dhawan Space Centre
+334,Jason 3,USA/France,LEO,111.8,553.0,500,2016-01-17,5.0,Vandenberg AFB
+335,JCSat 2A,Japan,GEO,1436.1,2500.0,3500,2002-03-29,11.0,Guiana Space Center
+336,Kanopus-B,Russia,LEO,94.7,400.0,300,2012-07-22,5.0,Baikonur Cosmodrome
+337,KazEOSat-1,Kazakhstan,LEO,99.87,830.0,1200,2014-04-30,7.25,Guiana Space Center
+338,KazEOSat-2,Kazakhstan,LEO,97.19,185.0,55,2014-06-19,7.0,Dombarovsky Air Base
+339,Kompsat-2,South Korea,LEO,98.5,800.0,955,2006-07-28,3.0,Plesetsk Cosmodrome
+340,Kompsat-3,South Korea,LEO,98.5,980.0,1300,2012-05-17,4.0,Tanegashima Space Center
+341,Kompsat-3A,South Korea,LEO,95.25,980.0,1300,2015-03-25,4.0,Dombarovsky Air Base
+342,Kompsat-5,South Korea,LEO,95.5,1400.0,1400,2013-08-22,5.0,Dombarovsky Air Base
+343,Koreasat 5A,South Korea,GEO,1436.0,3700.0,6500,2017-10-30,15.0,Cape Canaveral
+344,Landsat 7,USA,LEO,98.8,2744.0,1500,1999-04-15,15.0,Vandenberg AFB
+345,Landsat 8,USA,LEO,98.8,2780.0,4300,2013-02-11,5.0,Vandenberg AFB
+346,Luch 5V,Russia,GEO,1435.99,1148.0,2200,2014-04-28,10.0,Baikonur Cosmodrome
+347,Maroc Tubsat,Morocco/Germany,LEO,105.1,47.0,56,2001-12-10,3.0,Baikonur Cosmodrome
+348,Measat 3B,Malaysia,GEO,1436.11,5800.0,16000,2014-09-11,15.0,Guiana Space Center
+349,Meteosat 8,Multinational,GEO,1436.1,2000.0,700,2002-08-21,12.0,Guiana Space Center
+350,Meteosat 9,Multinational,GEO,1436.0,2000.0,700,2005-12-21,12.0,Guiana Space Center
+351,Mexsat-3,Mexico,GEO,1436.16,2900.0,3500,2012-12-19,15.0,Guiana Space Center
+352,USA 99,USA,GEO,1436.13,4536.0,8000,1994-02-07,10.0,Cape Canaveral
+353,USA 157,USA,GEO,1435.04,4536.0,8000,2001-02-27,12.0,Cape Canaveral
+354,USA 164,USA,GEO,1436.12,4536.0,8000,2002-01-16,12.0,Cape Canaveral
+355,USA 169,USA,GEO,1436.13,4536.0,8000,2003-04-08,12.0,Cape Canaveral
+356,Microvariability & Oscillations of Stars (MOST),Canada,LEO,101.4,53.0,35,2003-06-30,1.0,Plesetsk Cosmodrome
+357,MSAT 2,USA/Canada,GEO,1436.09,2850.0,3300,1995-04-07,10.0,Cape Canaveral
+358,Multispectral Thermal Imager (MTI),USA,LEO,94.9,587.0,575,2000-03-12,3.0,Vandenberg AFB
+359,USA 262,USA,MEO,728.96,1630.0,1136,2015-07-15,12.0,Cape Canaveral
+360,USA 239,USA,MEO,718.0,1630.0,1136,2012-10-04,10.0,Cape Canaveral
+361,USA 242,USA,MEO,719.32,1630.0,1136,2013-05-15,10.0,Cape Canaveral
+362,USA 248,USA,MEO,729.39,1630.0,1136,2014-02-21,10.0,Cape Canaveral
+363,USA 251,USA,MEO,717.92,1630.0,1136,2014-05-17,10.0,Cape Canaveral
+364,USA 256,USA,MEO,729.0,1630.0,1136,2014-08-02,10.0,Cape Canaveral
+365,USA 258,USA,MEO,718.02,1630.0,1136,2014-10-29,10.0,Cape Canaveral
+366,USA 260,USA,MEO,729.14,1630.0,1136,2015-03-25,12.0,Cape Canaveral
+367,USA 293,USA,MEO,718.01,2300.0,1136,2019-08-22,15.0,Cape Canaveral
+368,USA 304,USA,MEO,717.9,2300.0,1136,2020-06-30,15.0,Cape Canaveral
+369,USA 309,USA,MEO,717.9,2300.0,1136,2020-11-05,15.0,Cape Canaveral
+370,USA 319,USA,MEO,717.9,2300.0,1136,2021-06-17,15.0,Cape Canaveral
+371,USA 177,USA,MEO,717.98,2217.0,1136,2004-03-20,10.0,Cape Canaveral
+372,USA 180,USA,MEO,718.0,2217.0,1136,2004-11-06,10.0,Cape Canaveral
+373,USA 132,USA,MEO,718.09,2217.0,1136,1997-07-23,10.0,Cape Canaveral
+374,USA 145,USA,MEO,717.97,2217.0,1136,1999-10-07,10.0,Cape Canaveral
+375,USA 150,USA,MEO,718.03,2217.0,1136,2000-05-11,10.0,Cape Canaveral
+376,USA 151,USA,MEO,722.98,2217.0,1136,2000-07-16,10.0,Cape Canaveral
+377,USA 154,USA,MEO,724.28,2217.0,1136,2000-11-10,10.0,Cape Canaveral
+378,USA 156,USA,MEO,718.09,2217.0,1136,2001-01-30,10.0,Cape Canaveral
+379,USA 166,USA,MEO,720.71,2217.0,1136,2003-01-29,10.0,Cape Canaveral
+380,USA 168,USA,MEO,720.65,2217.0,1136,2003-03-31,10.0,Cape Canaveral
+381,USA 183,USA,MEO,717.95,2217.0,1136,2005-09-26,10.0,Cape Canaveral
+382,USA 196,USA,MEO,717.93,2217.0,1136,2007-10-17,10.0,Cape Canaveral
+383,USA 201,USA,MEO,716.4,2217.0,1136,2008-03-15,10.0,Cape Canaveral
+384,USA 206,USA,MEO,718.07,2059.0,1136,2009-08-17,10.0,Cape Canaveral
+385,Nilesat 201,Egypt,GEO,1436.23,3200.0,"3,700 (EOL)",2010-08-04,15.0,Guiana Space Center
+386,Nimiq 4,Canada,GEO,1436.1,4850.0,12000,2008-09-19,15.0,Baikonur Cosmodrome
+387,NOAA-15,USA,LEO,101.0,2223.0,830,1998-05-13,3.0,Vandenberg AFB
+388,NOAA-18,USA,LEO,102.0,2223.0,830,2005-05-20,3.0,Vandenberg AFB
+389,NSS-7,Netherlands,GEO,1436.12,4500.0,3900,2002-04-16,14.0,Guiana Space Center
+390,NSS-9,Netherlands,GEO,1436.17,2238.0,2300,2009-02-11,15.0,Guiana Space Center
+391,Odin,Sweden,LEO,96.1,250.0,340,2001-02-20,2.0,Svobodny Cosmodrome
+392,Optus and Defence C1,Australia,GEO,1436.08,4800.0,10600,2003-06-12,15.0,Guiana Space Center
+393,Optus D1,Australia,GEO,1436.08,2300.0,4800,2006-10-13,15.0,Guiana Space Center
+394,Optus D2,Australia,GEO,1436.1,2400.0,3800,2007-10-05,15.0,Guiana Space Center
+395,Optus D3,Australia,GEO,1436.04,2501.0,5000,2009-08-21,15.0,Guiana Space Center
+396,ORBCOMM FM-10,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+397,ORBCOMM FM-11,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+398,ORBCOMM FM-12,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+399,ORBCOMM FM-13,USA,LEO,100.7,45.0,160,1998-08-02,5.0,Wallops Island Flight Facility
+400,ORBCOMM FM-14,USA,LEO,100.7,45.0,160,1998-08-02,5.0,Wallops Island Flight Facility
+401,ORBCOMM FM-15,USA,LEO,100.7,45.0,160,1998-08-02,5.0,Wallops Island Flight Facility
+402,ORBCOMM FM-18,USA,LEO,100.7,45.0,160,1998-08-02,5.0,Wallops Island Flight Facility
+403,ORBCOMM FM-19,USA,LEO,100.7,45.0,160,1998-08-02,5.0,Wallops Island Flight Facility
+404,ORBCOMM FM-20,USA,LEO,100.7,45.0,160,1998-08-02,5.0,Wallops Island Flight Facility
+405,ORBCOMM FM-21,USA,LEO,101.21,45.0,160,1998-09-23,5.0,Wallops Island Flight Facility
+406,ORBCOMM FM-23,USA,LEO,100.7,45.0,160,1998-09-23,5.0,Wallops Island Flight Facility
+407,ORBCOMM FM-27,USA,LEO,100.7,45.0,160,1998-09-23,5.0,Wallops Island Flight Facility
+408,ORBCOMM FM-30,USA,LEO,100.7,45.0,160,1999-12-04,5.0,Wallops Island Flight Facility
+409,ORBCOMM FM-31,USA,LEO,100.7,45.0,160,1999-12-04,5.0,Wallops Island Flight Facility
+410,ORBCOMM FM-32,USA,LEO,100.7,45.0,160,1999-12-04,5.0,Wallops Island Flight Facility
+411,ORBCOMM FM-35,USA,LEO,100.7,45.0,160,1999-12-04,5.0,Wallops Island Flight Facility
+412,ORBCOMM FM-36,USA,LEO,100.7,45.0,160,1999-12-04,5.0,Wallops Island Flight Facility
+413,ORBCOMM FM-4,USA,LEO,100.9,45.0,160,1998-02-10,5.0,Vandenberg AFB
+414,ORBCOMM FM-5,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+415,ORBCOMM FM-6,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+416,ORBCOMM FM-7,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+417,ORBCOMM FM-8,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+418,ORBCOMM FM-9,USA,LEO,100.3,45.0,160,1997-12-23,5.0,Wallops Island Flight Facility
+419,ORBCOMM FM-103,USA,LEO,98.36,172.0,400,2014-07-14,5.0,Cape Canaveral
+420,ORBCOMM FM-107,USA,LEO,98.34,172.0,400,2014-07-14,5.0,Cape Canaveral
+421,ORBCOMM FM-108,USA,LEO,97.42,172.0,400,2015-12-22,5.0,Cape Canaveral
+422,ORBCOMM FM-109,USA,LEO,98.34,172.0,400,2014-07-14,5.0,Cape Canaveral
+423,ORBCOMM FM-110,USA,LEO,97.44,172.0,400,2015-12-22,5.0,Cape Canaveral
+424,ORBCOMM FM-112,USA,LEO,97.43,172.0,400,2015-12-22,5.0,Cape Canaveral
+425,ORBCOMM FM-113,USA,LEO,97.41,172.0,400,2015-12-22,5.0,Cape Canaveral
+426,ORBCOMM FM-114,USA,LEO,97.43,172.0,400,2015-12-22,5.0,Cape Canaveral
+427,ORBCOMM FM-115,USA,LEO,97.39,172.0,400,2015-12-22,5.0,Cape Canaveral
+428,ORBCOMM FM-116,USA,LEO,97.4,172.0,400,2015-12-22,5.0,Cape Canaveral
+429,ORBCOMM FM-117,USA,LEO,97.42,172.0,400,2015-12-22,5.0,Cape Canaveral
+430,ORBCOMM FM-118,USA,LEO,97.44,172.0,400,2015-12-22,5.0,Cape Canaveral
+431,Pléiades HR1A ,France/Italy,LEO,98.7,1000.0,1500,2011-12-17,5.0,Guiana Space Center
+432,Proba 1,ESA,LEO,96.98,100.0,100,2001-10-22,2.0,Satish Dhawan Space Centre
+433,Proba 2,ESA,LEO,99.2,130.0,86,2009-11-02,2.0,Plesetsk Cosmodrome
+434,Cosmos 2437,Russia,LEO,115.9,280.0,300,2008-05-23,5.0,Plesetsk Cosmodrome
+435,Cosmos 2438,Russia,LEO,115.8,280.0,300,2008-05-23,5.0,Plesetsk Cosmodrome
+436,Cosmos 2439,Russia,LEO,115.8,280.0,300,2008-05-23,5.0,Plesetsk Cosmodrome
+437,Cosmos 2451,Russia,LEO,116.0,280.0,300,2009-07-06,5.0,Plesetsk Cosmodrome
+438,Cosmos 2453,Russia,LEO,116.0,280.0,300,2009-07-06,5.0,Plesetsk Cosmodrome
+439,Cosmos 2481,Russia,LEO,115.9,280.0,300,2012-07-28,5.0,Plesetsk Cosmodrome
+440,Cosmos 2482,Russia,LEO,115.86,250.0,300,2013-01-15,5.0,Plesetsk Cosmodrome
+441,Cosmos 2483,Russia,LEO,115.86,250.0,300,2013-01-15,5.0,Plesetsk Cosmodrome
+442,Cosmos 2484,Russia,LEO,115.86,250.0,300,2013-01-15,5.0,Plesetsk Cosmodrome
+443,Cosmos 2488,Russia,LEO,115.9,280.0,300,2013-12-25,5.0,Plesetsk Cosmodrome
+444,Cosmos 2489,Russia,LEO,115.8,280.0,300,2013-12-25,5.0,Plesetsk Cosmodrome
+445,Cosmos 2490,Russia,LEO,115.8,280.0,300,2013-12-25,5.0,Plesetsk Cosmodrome
+446,Cosmos 2496,Russia,LEO,115.88,280.0,300,2014-05-23,5.0,Plesetsk Cosmodrome
+447,Cosmos 2497,Russia,LEO,115.85,280.0,300,2014-05-23,5.0,Plesetsk Cosmodrome
+448,Cosmos 2498,Russia,LEO,115.82,280.0,300,2014-05-23,5.0,Plesetsk Cosmodrome
+449,Cosmos 2507,Russia,LEO,116.01,280.0,300,2015-09-23,5.0,Plesetsk Cosmodrome
+450,Cosmos 2508,Russia,LEO,115.99,280.0,300,2015-09-23,5.0,Plesetsk Cosmodrome
+451,Cosmos 2509,Russia,LEO,116.04,280.0,300,2015-09-23,5.0,Plesetsk Cosmodrome
+452,Cosmos 2530,Russia,LEO,116.04,280.0,300,2018-10-30,5.0,Plesetsk Cosmodrome
+453,Cosmos 2531,Russia,LEO,116.04,280.0,300,2018-10-30,5.0,Plesetsk Cosmodrome
+454,Cosmos 2532,Russia,LEO,116.04,280.0,300,2018-10-30,5.0,Plesetsk Cosmodrome
+455,Rumba,ESA,Elliptical,3431.1,1200.0,224,2000-08-09,4.0,Baikonur Cosmodrome
+456,Salsa,ESA,Elliptical,3418.2,1200.0,220,2000-07-16,4.0,Baikonur Cosmodrome
+457,Samba,ESA,Elliptical,3430.28,1200.0,220,2000-07-16,4.0,Baikonur Cosmodrome
+458,SARAL,India/France,LEO,100.53,407.0,906,2013-02-25,5.0,Satish Dhawan Space Centre
+459,SCD-1,Brazil,LEO,99.7,110.0,70,1993-02-09,3.0,Cape Canaveral
+460,SCD-2,Brazil,LEO,99.8,110.0,70,1998-10-23,3.0,Cape Canaveral
+461,SDO,USA,GEO,1436.03,3100.0,1500,2010-02-11,5.0,Cape Canaveral
+462,SDS-4,Japan,LEO,98.1,50.0,120,2012-05-17,2.0,Tanegashima Space Center
+463,SES-12,Luxembourg,GEO,1436.0,5300.0,15000,2018-06-04,15.0,Cape Canaveral
+464,SES-2,Luxembourg,GEO,1436.19,3200.0,5000,2011-09-21,18.0,Guiana Space Center
+465,SES-9,Luxembourg,GEO,1436.2,5271.0,12700,2016-03-04,15.0,Cape Canaveral
+466,Sicral 1A,Italy,GEO,1436.06,2596.0,3300,2001-02-07,12.0,Guiana Space Center
+467,Sicral 2/Syracuse 3C,France/Italy,GEO,1436.0,4400.0,7700,2015-04-26,15.0,Guiana Space Center
+468,Sirius FM-5,USA,GEO,1436.0,5800.0,20000,2009-06-30,15.0,Baikonur Cosmodrome
+469,Sirius FM-6,USA,GEO,1436.16,6020.0,20000,2013-10-25,15.0,Baikonur Cosmodrome
+470,Sirius XM-3,USA,GEO,1436.1,4703.0,18000,2005-03-01,15.0,Sea Launch Odyssey
+471,Sirius XM-4,USA,GEO,1436.09,5193.0,18000,2006-10-30,15.0,Sea Launch Odyssey
+472,Sirius XM-5,USA,GEO,1436.12,5983.0,18000,2010-10-14,15.0,Baikonur Cosmodrome
+473,Sirius XM-8,USA,GEO,1436.1,7000.0,18000,2021-06-06,15.0,Cape Canaveral
+474,Sky Muster 1,Australia,GEO,1434.76,6440.0,16400,2015-09-30,15.0,Guiana Space Center
+475,Sky Muster 2,Australia,GEO,1436.1,6405.0,16400,2016-10-05,15.0,Guiana Space Center
+476,SkyBrasil-1 (Intelsat 32E),Brazil,GEO,1436.0,6000.0,16000,2017-02-14,15.0,Guiana Space Center
+477,Skynet 4C,United Kingdom,GEO,1436.07,1474.0,1200,1990-08-30,7.0,Guiana Space Center
+478,Skynet 4E,United Kingdom,GEO,1436.06,1510.0,1200,1999-02-26,7.0,Guiana Space Center
+479,Skynet 5A,United Kingdom,GEO,1436.1,4700.0,6000,2007-03-11,15.0,Guiana Space Center
+480,Skynet 5B,United Kingdom,GEO,1436.1,4635.0,6000,2007-11-14,15.0,Guiana Space Center
+481,SMOS,ESA,LEO,100.0,658.0,1065,2009-11-02,3.0,Plesetsk Cosmodrome
+482,SOlar Radiation and Climate Experiment (SORCE),USA,LEO,97.0,315.0,348,2003-01-25,6.0,Cape Canaveral
+483,Spaceway F2,USA,GEO,1436.1,5993.0,12300,2005-11-16,12.5,Guiana Space Center
+484,Star One C1,Brazil,GEO,1436.0,4100.0,10500,2007-11-14,15.0,Guiana Space Center
+485,Star One C4,Brazil,GEO,1436.1,5634.0,15600,2015-07-15,15.0,Guiana Space Center
+486,STSat-2C,South Korea,LEO,102.77,93.0,160,2013-01-30,2.0,Naro Space Center
+487,SWARM-A,ESA,LEO,93.9,468.0,608,2013-11-22,4.0,Plesetsk Cosmodrome
+488,SWARM-B,ESA,LEO,93.9,468.0,608,2013-11-22,4.0,Plesetsk Cosmodrome
+489,SWARM-C,ESA,LEO,94.0,468.0,608,2013-11-22,4.0,Plesetsk Cosmodrome
+490,Swift,USA/United Kingdom/Italy,LEO,96.3,1463.0,1040,2004-11-20,7.0,Cape Canaveral
+491,Syracuse 3A,France,GEO,1436.06,3725.0,5640,2005-10-13,12.0,Guiana Space Center
+492,Tango,ESA,Elliptical,3442.0,1200.0,220,2000-08-09,4.0,Baikonur Cosmodrome
+493,TDRS-10,USA,GEO,1436.04,3180.0,"2,300 (EOL)",2002-12-04,11.0,Cape Canaveral
+494,TDRS-11,USA,GEO,1436.18,3454.0,"2,300 (EOL)",2013-01-31,15.0,Cape Canaveral
+495,TDRS-12,USA,GEO,1435.88,3454.0,"3,500 (EOL)",2014-01-23,15.0,Cape Canaveral
+496,TDRS-13,USA,GEO,1436.0,3452.0,"3,500 (EOL)",2017-08-18,15.0,Cape Canaveral
+497,TDRS-3,USA,GEO,1436.06,3180.0,1800,1988-09-29,10.0,Cape Canaveral
+498,TDRS-5,USA,GEO,1436.99,3180.0,1800,1991-08-02,10.0,Cape Canaveral
+499,TDRS-6,USA,GEO,1435.7,3180.0,1800,1993-01-13,10.0,Cape Canaveral
+500,TDRS-7,USA,GEO,1436.04,3180.0,1800,1995-07-13,10.0,Cape Canaveral
+501,TDRS-8,USA,GEO,1436.2,3180.0,"2,300 (EOL)",2000-06-30,11.0,Cape Canaveral
+502,TDRS-9,USA,GEO,1436.11,3180.0,"2,300 (EOL)",2002-03-08,11.0,Cape Canaveral
+503,Telkom 3S,Indonesia,GEO,1436.1,3550.0,6400,2017-02-14,18.0,Guiana Space Center
+504,Telstar 14R,Canada,GEO,1436.1,4970.0,12000,2011-05-20,15.0,Baikonur Cosmodrome
+505,TET-1,Germany,LEO,94.7,120.0,20,2012-07-22,1.0,Baikonur Cosmodrome
+506,Thaicom-4,Thailand,GEO,1436.1,6505.0,14000,2005-08-11,12.0,Guiana Space Center
+507,THEMIS A,Multinational,Elliptical,1868.98,126.0,40,2007-02-17,2.0,Cape Canaveral
+508,THEMIS D,Multinational,Elliptical,1867.91,126.0,40,2007-02-17,2.0,Cape Canaveral
+509,THEMIS E,Multinational,Elliptical,1875.53,126.0,40,2007-02-17,2.0,Cape Canaveral
+510,Theos,Thailand,LEO,101.4,750.0,840,2008-10-01,5.0,Dombarovsky Air Base
+511,Thor-6,Norway,GEO,1436.1,3050.0,5900,2009-10-29,15.0,Guiana Space Center
+512,Thuraya 2,United Arab Emirates,GEO,1436.07,5250.0,11000,2003-06-10,12.0,Sea Launch Odyssey
+513,TIMED,USA,LEO,97.0,587.0,406,2001-12-07,2.0,Vandenberg AFB
+514,USA 146,USA,GEO,1436.1,3200.0,"3,800 (EOL)",1999-11-24,4.0,Cape Canaveral
+515,USA 174,USA,GEO,1436.1,3200.0,"2,800 (EOL)",2003-12-18,4.0,Cape Canaveral
+516,USA 108,USA,GEO,1435.22,3200.0,"2,800 (EOL)",1995-01-29,4.0,Cape Canaveral
+517,USA 138,USA,GEO,1435.94,3206.0,"3,800 (EOL)",1998-03-16,4.0,Cape Canaveral
+518,USA 195,USA,GEO,1436.1,5900.0,13000,2007-10-11,14.0,Cape Canaveral
+519,USA 291,USA,GEO,1436.1,5990.0,13000,2019-03-16,14.0,Cape Canaveral
+520,USA 204,USA,GEO,1436.12,5987.0,13000,2009-04-04,14.0,Cape Canaveral
+521,USA 211,USA,GEO,1436.1,5990.0,13000,2009-12-06,14.0,Cape Canaveral
+522,USA 233,USA,GEO,1436.1,5990.0,13000,2012-01-20,14.0,Cape Canaveral
+523,USA 243,USA,GEO,1436.1,5990.0,13000,2013-05-25,14.0,Cape Canaveral
+524,USA 244,USA,GEO,1436.1,5990.0,13000,2013-08-08,14.0,Cape Canaveral
+525,USA 263,USA,GEO,1436.1,5990.0,13000,2015-07-24,14.0,Cape Canaveral
+526,USA 272,USA,GEO,1436.1,5990.0,13000,2016-12-07,14.0,Cape Canaveral
+527,USA 275,USA,GEO,1436.1,5990.0,13000,2017-03-17,14.0,Cape Canaveral
+528,WildBlue 1,USA,GEO,1436.1,4735.0,10000,2006-12-08,12.0,Guiana Space Center
+529,Worldview 1,USA,LEO,94.5,4500.0,3200,2007-09-18,7.25,Vandenberg AFB
+530,Worldview 3,USA,LEO,96.96,2800.0,3100,2014-08-13,12.0,Vandenberg AFB
+531,X-Sat,Singapore,LEO,101.1,91.0,175,2011-04-20,3.0,Satish Dhawan Space Centre
+532,Yamal-202,Russia,GEO,1436.06,1320.0,2000,2003-11-24,12.0,Baikonur Cosmodrome
+533,Zhongxing 1C,China,GEO,1436.12,5200.0,8000,2015-12-09,15.0,Xichang Satellite Launch Center
+534,Zhongxing 6B,China,GEO,1436.1,4600.0,9500,2007-07-06,15.0,Xichang Satellite Launch Center

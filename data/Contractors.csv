@@ -1,0 +1,548 @@
+ContractorID,Name,Country,Purpose
+0,Hera Systems,USA,Earth Observation
+1,Aalto University,Finland,Technology Development
+2,University of Aalborg,Denmark,Earth Observation
+3,Space Systems/Loral,USA,Communications
+4,Boeing Satellite Systems,USA,Communications
+5,Lockheed Martin,USA,Communications
+6,Asher Space Research Institute at Technion/Israeli Aircraft Industries,Israel,Technology Development
+7,National Reconnaissance Laboratory (?),USA,Earth Observation
+8,TRW Space and Electronics,USA,Earth Observation
+9,Lockheed Martin Space Systems,USA,Communications
+10,University of Southern California,USA,Technology Development
+11,Airbus Defense and Space,France/UK/Germany/Spain,Earth Observation
+12,Aerospace Corporation,USA,Technology Development
+13,EADS Astrium,France,Communications
+14,NanoAvionics,USA,Communications
+15,Orbital Sciences Corp.,USA,Earth Observation
+16,Kongsberg Seatex AS/University of Toronto Institute for Aerospace Studies,Canada,Communications
+17,GomSpace ApS,Denmark,Earth Observation
+18,Orbital ATK,USA,Communications
+19,China Academy of Space Technology (CAST),China,Communications
+20,Astro Live Experiences,Japan,Earth Science
+21,University of Brasilia,Brazil,Technology Development
+22,Al-Farabi Kazakh National University,Kazakhstan,Technology Development
+23,US Air Force Institute of Technology,USA,Technology Development
+24,Surrey Satellite Technology Ltd.,UK,Earth Observation
+25,National Institute for Space Research (INPE),Brazil,Earth Observation
+26,Lockheed Martin Commercial Space Systems,USA,Communications
+27,Lockheed Martin Missiles & Space,USA,Communications
+28,Moscow State University,Russia,Space Science
+29,Israel Aircraft Industries (IAI),Israel,Communications
+30,Amsat-NA,USA,Communications
+31,Boston University,USA,Space Science/Technology Demonstration
+32,CNES ,ESA,Communications
+33,Aprize Satellite ,Argentina,Communications/Technology Development
+34,SpaceQuest,USA,Communications/Maritime Tracking
+35,Thales Alenia Space,France/Italy,Communications
+36,Astrium/Thales Alenia Space,France,Communications
+37,"South Florida University, Institute of Applied Engineering (IAE)",USA,Technology Development
+38,Norwegian Defence Research Establishment,Norway,Technology Demonstration
+39,Aoyama Gakuin University in Tokyo,Japan,Technology Development
+40,NPO Lavochkin,Russia,Earth Observation
+41,Planetary Resources,USA,Technology Development
+42,UT Austin/Baylor University,USA,Technology Development
+43,INVAP S.E.,Argentina,Communications
+44,Astrospacelab,Belgium,Earth Observation
+45,Istanbul Technical University,Turkey,Earth Observation
+46,Alcatel Space Industries,France,Communications
+47,NEC Corporation,Japan,Earth Observation
+48,Chiba Institute of Technology,Japan,Technology Development
+49,Hughes Space and Communications Co.,USA,Communications
+50,Astranis,USA,Technology Development
+51,Astrocast,Switzerland,Communications
+52,Indian Space Research Organization (ISRO),India,Space Science
+53,Maxar Technologies,USA,Communications
+54,Microspace Rapid Pvt Ltd.,Singapore,Technology Development
+55,Unknown,China,Unknown
+56,Progress Rocket and Space Center,Russia,Earth Observation
+57,MinoSpace Technology,China,Earth Observation
+58,Central European Institute of Technology,Czech Republic,Technology Demonstration
+59,Technical University Berlin,Germany,Technology Demonstration
+60,Space Technology Research Institute (part of CASC),China,Navigation/Global Positioning
+61,Chinese Academy of Space Technology (CASC),China,Earth Observation
+62,Tsinghua University/University of Surrey,China/UK,Earth Observation
+63,China Academy of Space Technology/Thales Alenia Space,China/France,Communications
+64,Deutsches Zentrum für Luft- und Raumfahrt,Germany,Earth Observation/Technology Development
+65,German Aerospace Center (DLR),Germany,Earth Observation
+66,Salish Kootenai College,USA,Earth Observation/Technology Development
+67,NPO VNIIEM,Russia,Earth Observation
+68,Spaceflight Industries,USA,Earth Observation
+69,LeoStella,USA/Thales Alenia Space,Earth Observation
+70,ISS Reshetnev,Russia,Communications
+71,Solutions in Space,Netherlands,Signals Intelligence
+72,"University of Toronto, Institute for Aerospace Studies",Canada,Space Science
+73,"Space Research Center, Polish Academy of Sciences",Poland,Space Science
+74,UnseenLabs,France,Earth Observation
+75,Defence Science and Technology Group/University of New South Wales,Australia,Technology Development
+76,Satellogic,Argentina,Technology Development
+77,Alcatel Alenia Space,France,Earth Science
+78,University of Toronto Institute for Aerospace Studies,Canada,Technology Development
+79,University of Louisiana at Lafayette,USA,Technology Development
+80,Capella Space,USA,Earth Observation
+81,Korea Aerospace Research Institute (KARI),South Korea,Earth Observation
+82,Canadian Space Agency,Canada,Earth Science
+83,M42 Technologies,USA,Technology Development
+84,Pumpkin Space Systems,USA,Communications
+85,Innovation Academy for Microsatellites,China,Technology Development
+86,NASA Goddard Space Flight Center,USA,Space Science
+87,Canon Electronics Space Technology Laboratory,Japan,Technology Development
+88,Cesium Astro,USA,Technology Development
+89,China Academy of Space Technology (CAST)/National Centre for Space Studies (CNES),China/France,Earth Observation
+90,TELNET Holding,Tunisia,Technology Development
+91,Tianyi Research Institute,China,Technology Development
+92,Shanghai Engineering Center for Microsatellites,China,Earth Observation 
+93,Spacety Co. Ltd.,China,Earth Observation
+94,Shanghai Institute of Satellite Engineering at the Shanghai Academy of Spaceflight Technology,China,Space Science
+95,Naval Research Laboratory,USA,Technology Development
+96,European Space Agency,ESA/EADS CASA Espacio,Space Science
+97,University of Florida,USA,Technology Development
+98,Chinese Academy of Sciences,China,Communications
+99,Tyvak Nanosatellite Systems,USA,Earth Observation
+100,"Space Sciences Laboratory (SSL) of the University of California Berkeley; Kyung Hee University (KHU), Imperial College London",USA,Space Science
+101,Utah State University/Ball Aerospace/NASA,USA,Technology Development
+102,NASA Jet Propulsion Laboratory,USA,Earth Observation
+103,FH Aachen,Germany,Technology Development
+104,EADS Astrium/Electronics and Telecommunications Research Institute (ETRI),South Korea,Earth Observation/Communications
+105,NPO Mashinostroyeniya,Russia,Earth Observation
+106,"Spectrum Astro, Inc.",USA,Earth Observation
+107,Astro Digital,USA,Earth Observation
+108,Thales Alenia Space,Italy,Earth Observation
+109,California Polytechnic University/NASA JPL,USA,Earth Observation
+110,Blue Canyon Technologies,USA,Space Science
+111,Centre National D'études Spatiales (CNES),France,Earth Observation
+112,"Argentinian Ministry of Science, Technology and Productive Innovation",Argentina,Technology Development
+113,University of Illinois Urbana-Champaign,USA,Technology Development
+114,"Department of Astronautics, University of Tokyo",Japan,Technology Development
+115,NASA Goddard Space Flight Center collaborators,USA,Earth Science
+116,"Department of Astrophysical and Planetary Sciences, University of Colorado Boulder",USA,Space Science
+117,Southwest Research Institute,USA,Earth Observation
+118,Mitsubishi Electric,Japan,Earth Observation
+119,China Academy of Science,China,Space Science
+120,North Idaho STEM Charter Academy,USA,Educational
+121,MinoSpace Technology (?),China,Earth Observation
+122,Shenzhen Aerospace Dongfanghong HIT Satellite Ltd./CAMSAT,China,Technology Development
+123,Satrec Initiative,South Korea,Earth Observation
+124,German Orbital Systems,Germany,Space Science
+125,Technical University of Delft,Netherlands,Technology Development
+126,Massachusetts Institute of Technology/Blue Canyon Technologies Inc.,USA,Technology Development
+127,Khalifa University/Yahsat,United Arab Emirates,Technology Development
+128,DARPA/University of Utah,USA,Technology Development
+129,Innovative Solutions in Space BV,Netherlands,Technology Development
+130,Boeing Space & Intelligence Systems,USA,Communications
+131,Boeing Satellite Development Center,USA,Communications
+132,Boeing Space Systems,USA,Communications
+133,PHL Microsat,Philippines,Earth Observation
+134,"Institute of Aeronautics and Astronautics, Technical University of Berlin",Germany,Earth Science
+135,UNITAS Space Flight Laboratory (SFL),Canada,Earth Observation
+136,"Planet Labs, Inc.",USA,Earth Observation
+137,Kawasaki Heavy Industries,Japan,Technology Demonstration
+138,TRW and Aerojet Electronics Systems,USA,Earth Observation
+139,Air Force Research Laboratory,USA,Technology Development
+140,Academy of Military Science,China,Technology Development
+141,Lockheed Commercial Space Systems,USA,Communications
+142,OHB Italia,Italy,Earth Observation
+143,Ecuador Technical University,Ecuador,Technology Development
+144,OHB Germany,Germany,Communications
+145,RKK Energia,Russia,Earth Observation
+146,Momentus,USA,Technology Development
+147,Lavochkin,Russia,Earth Observation
+148,University of California,USA,Space Science
+149,Astroscale/Surrey Satellite Technology Ltd.,Singapore/UK,Technology Development
+150,NPP VNIEM,Russia,Earth Observation
+151,OHB System-AG,Germany,Earth Observation
+152,ISRO Satellite Center,India,Earth Observation
+153,TRW,USA,Earth Observation
+154,NASA/Jet Propulsion Laboratory/Japan Aerospace Exploration Agency/Equatorial Systems (Brazil),USA/Japan/Brazil,Earth Observation
+155,Japan Aerospace Exploration Agency (JAXA),Japan,Space Science
+156,LuxSpace,Luxembourg,Earth Observation
+157,Carlo Gavazzi Space (CGS) working with network of universities,Italy,Earth Observation/Earth Science
+158,Beijing Zhixing Space Technology Co. Ltd,China/Ethiopia,Earth Observation
+159,Boeing Defense and Space,USA,Communications
+160,Astrium,France,Communications
+161,Northrup Grumman Innovation Systems,USA,Communications
+162,EADS Space,France/UK/Germany/Spain,Communications
+163,Airbus,France/UK/Germany/Spain,Communications
+164,Space Flight Laboratory (SFL),Canada,Communications
+165,NovaWurks,USA,Technology Development
+166,California Polytechnic Institute,USA,Space Science
+167,ISS Reshetnev/Thales Alenia Space,Russia,Communications
+168,NPO-PM/Alcatel,Russia/France,Communications
+169,NPO-PM/Thales Alenia Space,Russia/France,Communications
+170,OAO-ISS,Russia,Communications
+171,ISS Reshetnev ,Russia,Communications
+172,Amateur Radio enthusiasts,India,Communications
+173,CNES,France,Space Science
+174,GomSpace,Denmark,Earth Observation
+175,Airbus Defense and Space/Thales Alenia Space,France/UK/Germany/Spain,Earth Observation
+176,US Air Force Academy,USA,Technology Development
+177,GOMSpace,Denmark,Platform
+178,University of Texas - Austin,USA,Technology Development
+179,Link Space Aerospace Technology,China,Technology Development
+180,Shanghai Academy of Spaceflight Technology (SAST),China,Earth Observation
+181,General Dynamics,USA,Space Science
+182,National Reconnaissance Office (NRO),USA,Earth Observation
+183,Montana State University,USA,Space Science
+184,University of Stuttgart,Germany,Earth Observation/Space Science
+185,"TRW, Defense and Space Systems Group",USA,Communications
+186,National Space Organization,Taiwan,Earth Observation
+187,Los Alamos National Laboratory/Sandia National Laboratory,USA,Earth Observation
+188,Cultivate Space Technology Co.,China,Technology Development
+189,Fossa Systems,Spain,Communications
+190,Radio Amateur Satellite Corporation (AMSAT),USA,Communications
+191,consortium of European companies and institutes,ESA,Earth Observation
+192,AMSAT/UK-AMSAT/NL,UK/Netherlands,Communications
+193,Northrup Grumman,USA,Communications
+194,"OHB-System GmbH, SSTL ",Germany/UK,Navigation/Global Positioning
+195,"OHB-System GmbH, SSTL",Germany/UK,Navigation/Global Positioning
+196,China Spacesat,China,Earth Observation
+197,China Aerospace Science and Technology Corp. (CASC),China,Earth Observation
+198,GomSpace/University of Aalborg,Denmark,Technology Development
+199,NearSpace Launch/Air Force Research Laboratory,USA,Technology Development
+200,Shanghai Institute of Microsatellite Innovation,China,Space Science
+201,Bigelow Aerospace,USA,Technology Development
+202,NASA/Goddard Space Flight Center,USA,Space Science
+203,AIVT by ISISSpace,United Arab Emirates,Earth Observation
+204,GHGSat,Canada,Earth Science
+205,"University of Toronto, Institute for Aerospace Studies/ Space Flight Laboratory",Canada,Earth Science
+206,Space Systems/Loral/Alenia Aerospazio,USA/Italy,Communications
+207,TÜBİTAK Space Technologies Research Institute/Turkish Aerospace Industries,Turkey,Earth Observation
+208,"Beijing ZeroG Space Technology Co., Ltd.",China,Earth Observation
+209,Zhongke Xingrui,China,Earth Observation
+210,Lunasonde,USA,Earth Observation
+211,NASA Jet Propulsion Laboratory/Airbus,USA/Germany,Earth Observation
+212,Axelspace,Japan,Earth Observation
+213,Kyushu Institute of Technology (KIT),Japan,Earth Science
+214,U.S. Army’s Space and Missile Defense Command/TSEPT,USA,Earth Observation
+215,U.S. Army's Space and Missile Defense Command/TSEPT,USA,Earth Observation
+216,Shenzhen Aerospace Dongfanghong Satellite Co. Ltd.,China,Earth Observation
+217,Aerospace Dongfanghong Satellite Co. Ltd. (CASC),China,Earth Observation
+218,DFH Satellite Co. Ltd.,China,Earth Observation
+219,"Hunan Hangsheng Satellite Technology Co., Ltd.",China,Technology Development
+220,York Space Systems,USA,Technology Development
+221,Unitas SFL/HawkEye 360,USA,Surveillance
+222,GomSpace/Unitas SFL,Denmark/Canada,Surveillance
+223,HEAD Aerospace,China,Earth Observation
+224,Tokyo Institute of Technology,Japan,Technology Demonstration
+225,Hiber Global,Netherlands,Technology Development
+226,"Institute of Space and Aeronautical Science, University of Tokyo/NASA",Japan/USA/UK/Germany,Space Science
+227,Spacety,China,Earth Observation
+228,China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.,China,Earth Observation
+229,University of Tokyo,Japan,Technology Development
+230,China Aerospace Science and Industry Corporation (CASIC),China,Technology Development
+231,Boeing,USA,Communications
+232,Harris Corporation,USA,Communications
+233,Shanghai Lizheng Satellite Application Technology,China,Communications
+234,European Space Agency/NASA,International,Space Science
+235,Huaian Youth Comprehensive Development Base,China,Technology Development
+236,National Space Science Center (NSSC),China,Space Science
+237,Northrup Grumman Information Systems,USA,Earth Science
+238,ICEYE Ltd.,Finland,Earth Observation
+239,National Aeronautics and Space Administration (NASA),USA,Space Science
+240,Mitsubishi/Toshiba,Japan,Earth Observation
+241,National Reconnaissance Laboratory,USA,Earth Observation
+242,Boeing Corp.,USA,Communications
+243,Airbus Defence and Space,France/UK/Germany/Spain,Communications
+244,ATSB,Malaysia,Technology Development
+245,University of Colorado’s Laboratory for Atmospheric and Space Physics/Indian Institute of Space Science and Technology,USA/India,Earth Science
+246,Alenia Aerospazio (and 28 subcontractors),Italy/International,Space Science
+247,Boeing Satellite Systems (prime)/Multinational,International,Space Science
+248,D-Orbit,Italy,Technology Demonstration
+249,Thales Alenia Space/Orbital ATK,France/Italy/USA,Communications
+250,Lockheed Martin Space Systems Advanced Technology Center (ATC),USA,Space Science
+251,IRSO Satellite Center,India,Navigation/Regional Positioning
+252,NASA Small Satellite Technology Program,USA,Technology Development
+253,SRI International/CalPoly,USA,Space Science
+254,ITU Space Systems Design & Test Laboratory,Turkey,Technology Development
+255,Ball Aerospace,USA,Space Science
+256,Shanghai Ok Space Co Ltd.,China,Communications
+257,Chang Guang Satellite Technology Co. Ltd.,China,Earth Observation
+258,Shenzhen Aerospace Dongfanghong Development Ltd.,China,Earth Observation
+259,Royal Jordanian Radio Amateur Society,Jordan,Communications
+260,All-Russia Research Institute of Electromechanics (NPP VNIIEM),Russia,Earth Observation
+261,Roscosmos,Russia,Earth Observation
+262,Khrunichev,Russia,Communications
+263,National University of Singapore,Singapore,Earth Observation
+264,Kepler Aerospace,Canada,Communications
+265,Clyde Space,UK,Communications
+266,U.S. Army Space and Missile Defense Command/Army Forces Strategic Command,USA,Earth Observation/Technology Development
+267,Mohammed bin Rashid Space Center,United Arab Emirates,Earth Observation
+268,Tsinghua University,China,Technology Development
+269,Tokyo Metropolitan College of Industrial Technology,Japan,Technology Development
+270,"Innovation Academy for Microsatellites, Chinese Academy of Sciences",China,Technology Development
+271,"Shanghai Institute of Microsatellite Innovation, Chinese Academy of Sciences",China,Technology Development
+272,"Engineering Department, Chosun University",South Korea,Space Science
+273,Korea Aerospace Research Institute (KARI)/ EADS Astrium,South Korea/France/UK/Germany,Earth Observation/Technology Development
+274,National Institute of Technology at Kochi College,Japan,Technology Development
+275,Kleos Space,Luxembourg,Earth Observation
+276,"College of Engineering, King Saud University",Saudi Arabia,Technology Development
+277,Lockheed Martin Astronautics,USA,Earth Observation
+278,Open Cosmos,UK,Communications
+279,Beijing Commsat Technology Development Co. Ltd.,China,Technology Development
+280,Northrop Grumman Innovative Systems (NGIS),USA,Earth Observation
+281,Indonesian National Institute of Aeronautics and Space,Indonesia,Earth Observation
+282,Sapienza/ESA,Italy,Technology Development
+283,NanoSatisfi Inc.,USA,Technology Development
+284,Spire Global,USA,Earth Observation
+285,California Polytechnic State University,USA,Technology Development
+286,The Planetary Society,USA,Technology Development
+287,Harbin Institute of Technology,China,Technology Development
+288,General Atomics Electromagnetic Systems,USA,Communications
+289,Xinwei Telecom Technology Co/Tsinghua University,China,Technology Development
+290,Beijing ZeroG Technology Co. Ltd.,China,Earth Observation
+291,"Shanghai ASES Spaceflight Technology Co. Ltd., NJU/HKU",China,Space Science
+292,TsSKB-Progress Samara Space Center and KB Arsenal,Russia,Earth Observation
+293,OAO ISS,Russia,Communications
+294,OAO Resetneva,Russia,Communications
+295,SkyFox Labs,Czech Republic,Technology Development
+296,University of Vigo/Alén Space,Spain,Communications
+297,Wuhan University,China,Earth Observation
+298,Lynk Global,USA,Communications
+299,Com Dev International (Honeywell Canada),Canada,Earth Observation
+300,Northwest Nazarene University/Globalstar,USA,Technology Development
+301,Astro Digital/SA Photonics,USA,Technology Development
+302,CRTS Morocco/Institut für Luft-und Raumfahrttechnik,Morocco/Germany,Technology Development
+303,Two high schools and OHB System AG,Italy/Germany,Space Science/Technology Development
+304,University of Michigan/Montana University/Montana Space Grant Consortium,USA,Technology Development
+305,Cape Peninsula University of Technology (CPUT),South Africa,Earth Observation
+306,PO Polyot,Russia,Communications
+307,Analytical Space,USA,Technology Development
+308,VNIIEM,Russia,Earth Observation
+309,Masdar Institute of Science and Technology,United Arab Emirates,Earth Observation
+310,Built by Vietnamese engineers studying in Japan.,Vietnam,Earth Observation
+311,MIT/LL-UM Amherst,USA,Earth Observation
+312,Thales/Alenia Space and Airbus Defense and Space,France/UK/Germany/Spain/Italy,Earth Observation
+313,"Space Dynamics Laboratory, Utah State University",USA,Technology Development
+314,Dynacon Inc./University of Toronto Institute for Aerospace Studies/University of British Columbia,Canada,Space Science
+315,Technical University of Munich,Germany,Technology Development
+316,Mozhaiskiy Space Engineering Academy,Russia,Technology Development
+317,Hughes Space and Communications Co. ,USA,Communications
+318,Ball Aerospace/TRW/Raytheon,USA,Technology Development
+319,Vietnam National Space Center,Vietnam,Technology Development
+320,Instituto Nacional de Técnia Aeroespacial (INTA),Spain,Communications
+321,"Brazilian National Institute of Space Research (INPE/MCTI), Federal University of Santa Maria (UFSM)",Brazil,Earth Observation
+322,Innovative Solutions in Space,Netherlands,Earth Observation
+323,National Authority for Remote Sensing and Space Sciences,Egypt,Technology Development
+324,Mohammed bin Rashid Space Centre/American University of Sharjah,United Arab Emirates,Communications/Technology Development
+325,University of Toronto Institute for Aerospace Studies Space Flight Laboratory,Canada,Earth Observation
+326,Origin Space,China,Technology Development
+327,Microsat Systems Canada Inc.,Canada,Space Observation
+328,Deimos,Spain,Earth Observation
+329,Würzburg Center for Telematics,Germany,Technology Demonstration
+330,SaTReC (Satellite Technology Research Center) of KAIST,South Korea,Space Science
+331,Nahon University,Japan,Communications
+332,Surrey Satellite Technology Ltd. ,UK,Earth Observation
+333,DFH Satellite Co. Ltd./CASC,China,Earth Observation
+334,Noorul Islam University,India,Technology Development
+335,Revolutionary Guard Corps,Iran,Earth Observation
+336,Novosibirsk State University,Russia,Space Science
+337,Norwegian Space Center,Norway,Earth Science/Earth Observation
+338,Surrey Satellite Technologies Ltd./Airbus Defense and Space,UK,Earth Observation
+339,Naval Postgraduate School,USA,Technology Development
+340,NSLComm,Israel,Technology Development
+341,NASA/Ames Research Center,USA,Space Science
+342,Michigan Technological University/Air Force Research Laboratory,USA,Technology Development
+343,Swedish Space Corporation/Canadian Space Agency/National Technology Agency of Finland/Centre National d'Etudes Spatiales,Sweden/Canada/Finland/France,Earth Observation
+344,Israel Aerospace Industries (IAI),Israel,Earth Observation
+345,"Israel Aircraft Industries (IAI), Missiles and Space Group",Israel,Earth Observation
+346,OneWeb Satellites/Airbus,UK,Communications
+347,Instituto Nacional de Tecnica Aerospacial (INTA),Spain,Technology Development
+348,Boeing Corp./Sierra Nevada Corp.,USA,Communications
+349,University of Texas at El Paso,USA,Technology Development
+350,Firmamentum,USA,Technology Development
+351,Blue Canyon,USA,Technology Development
+352,Portland State University,USA,Technology Development
+353,MIT Lincoln Laboratory,USA,Technology Demonstration
+354,NASA Ames Research Center,USA,Technology Demonstration
+355,AIVT by Mexican University of the Army and Air Force,Mexico,Earth Observation
+356,CAST/DFH Satellite Co. Ltd.,China,Earth Observation
+357,NASA/Cornell University,USA,Technology Development
+358,US Naval Academy,USA,Technology Development
+359,Tiger Innovations,USA,Technology Development
+360,Netherlands Organization for Applied Scientific Research (NTO) consortium,Netherlands,Technology Development
+361,Dauria Aerospace/Canopus Systems,Russia/USA,Communications
+362,TsSKB Progress,Russia,Earth Observation
+363,Rocket Labs,New Zealand,Technology Development
+364,Clyde Space Ltd./Technical Research Centre of Finland/Centre Spatial of Liège,UK/Finland/Belgium,Technology Development
+365,Brigham Young University,USA,Technology Development
+366,"KB Arsenal, RKTs Progress",Russia,Earth Observation
+367,"PES University, Bengaluru",India,Technology Development
+368,Raytheon,USA,Communications
+369,National Technical University,Ukraine,Technology Development
+370,Verhaert Design and Development NV (leading a European consortium),Belgium,Technology Demonstration
+371,QinetiQ Space Belgium,Belgium,Earth Observation
+372,Los Alamos National Laboratory,USA,Technology Development
+373,Georgia Institute of Technology,USA,Technology Development
+374,Fleet Space Technologies,Australia,Technology Development
+375,Astrodynamics and Control Laboratory of Yonsei University,South Korea,Space Science
+376,Von Karman Institiute (VKI),Belgium,Space Science
+377,Qiansheng Exploration Technology Co. Ltd.,China,Earth Observation
+378,Shandong Institutes of Industrial Technology,China,Earth Observation
+379,Orbital Space,USA,Communications
+380,iQPS,Japan,Earth Observation
+381,Kyushu University,Japan,Earth Observation
+382,Chinese Academy of Sciences/Austrian Academy of Sciences,China/Austria,Space Science
+383,University of New South Wales,Australia,Technology Development
+384,Kyushu Institute of Technology,Japan,Earth Observation
+385,"MacDonald, Dettwiler/Thales Alenia Spazio",Canada/Italy,Earth Observation
+386,C3S,Hungary,Technology Demonstration
+387,Vanderbilt University/AMSAT,USA,Technology Development
+388,Applied Mechanics (NPO),Russia,Communications
+389,"Robertsville Middle School, Oak Ridge, Tennessee",USA,Earth Observation
+390,Space Technologies Research Institute,Turkey,Earth Observation
+391,MDA Corporation,Canada,Earth Observation
+392,Reaktor Space Labs,Finland,Earth Observation
+393,Defense Advanced Research Projects Agency (DARPA),USA,Technology Development
+394,Institute of Space and Astronautical Science (ISAS),Japan,Technology Development
+395,TsSKB Progress (State Research & Production Space Rocket Center),Russia,Earth Observation
+396,Tohoku University,Japan,Earth Observation
+397,Tohoku University/Hokkaido University,Japan,Earth Observation
+398,University of Montpellier,France,Earth Science
+399,NPO-PM,Russia,Communications
+400,OAO ISS,Russia,Communications
+401,OAS ISS,Russia,Communications
+402,RymanSat,Japan,Communications
+403,China Academy of SpaceTechnology (CAST),China,Communications
+404,Dornier Systems (Astrium) and 35 subcontractors,International,Space Science
+405,National Autonomous University of Mexico,Mexico,Technology Development
+406,Orion Space,Nepal,Communications
+407,INVAP,Argentina,Earth Observation
+408,"Surrey Satellite Technology Ltd./MacDonald, Dettwiler and Associates",UK/Canada,Space Observation
+409,OHB-System AG ,Germany,Earth Observation
+410,"Department of Computer Science and the Faculty of Engineering, Ariel University",Israel,Technology Development
+411,"Space Research Institute, King Abdulaziz City for Science and Technology",Saudi Arabia,Technology Development
+412,Riyadh Space Research Institute,Saudi Arabia,Earth Observation
+413,King Abdulaziz City for Science and Technology,Saudi Arabia,Earth Observation
+414,Boeing/Ball Aerospace,USA,Space Observation
+415,National Reconnaissance Laboratory (NRL),USA,Earth Observation
+416,Instituto Nacional de Pesquisas Espaciais (INPE),Brazil,Earth Observation
+417,Bristol Aerospace Ltd.,Canada,Space Science
+418,Goddard Space Flight Center,USA,Space Science
+419,University of North Carolina/Clyde,USA/UK,Earth Observation
+420,Nihon University,Japan,Technology Development
+421,Ratheon Corporation,USA,Earth Observation
+422,Thales Alenia Space Italia,Italy,Earth Observation
+423,Teen Satellite Project,China,Technology Development
+424,NASA Langley Research Center,USA,Technology Development
+425,China Academy of Space Technology (CAST)/ DFH Satellite Co. Ltd.,China,Space Science
+426,China Academy of Space Technology (CAST/DFH Satellite Co. Ltd.,China,Technology Development
+427,Shanghai Academy of Spaceflight Technology (SAST)/Dongfanghong Satellite Co.,China,Space Science
+428,Chinese Research Institute of Space Technology/Changchun Photomechanical Institute (CAS),China,Earth Observation
+429,CAST/DFH Satellite Co. Ltd./HIT,China,Earth Observation
+430,National Center for Nanoscience and Technology,China,Technology Development
+431,Yuzhnoye,Ukraine,Earth Observation
+432,Alenia Spazio,Italy,Communications
+433,"Royal Meteorologial Institute, Belgium/ESA",ESA,Earth Science
+434,SRI International,USA,Technology Demonstration
+435,Maxar ,USA,Communications
+436,Skybox Imaging,USA,Earth Observation
+437,Jet Propulsion Laboratory (NASA),USA,Earth Observation
+438,Miltec,USA,Technology Development
+439,US Army Space and Missile Defense Command,USA,Technology Development
+440,"Advanced Engineering Services Company, Ltd.",Japan,Technology Development
+441,Space Oriented Higashiosaka Leading Association,Japan,Technology Development
+442,Technical University Dresden,Germany,Space Science
+443,University of Würzburg,Germany,Technology Development
+444,COSMIAC and ASTRA LLC,USA,Space Science
+445,Swarm Technologies,USA,Communications
+446,ÅAC Microtecs,Sweden,Technology Development
+447,Endurosat,Bulgaria,Technology Development
+448,Kyushu Institute of Technology (KIT)/Nanyang Technological University (NTU),Japan/Singapore,Technology Development
+449,SRM University,India,Technology Development
+450,Shenzhen Aerospace Oriental Red Sea Satellite Co.,China,Earth Observation
+451,Beihang University/APSCO,China,Technology Development
+452,Shanghai Jiao Tong University/APSCO,China,Technology Development
+453,SpaceX,USA,Communications
+454,SatRevolution,Poland,Technology Development
+455,Various,USA,Technology Demonstration
+456,NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP),Russia,Communications
+457,Synspective,Japan,Earth Observation
+458,"University of Tokyo, the Tokyo Institute of Technology, Keio University, Japan Space Systems",Japan,Earth Observation
+459,Korea Advanced Institute of Science and Technology (KAIST),South Korea,Technology Development
+460,Northrop Grumman,USA,Technology Development
+461,University of Chile,Chile,Earth Science
+462,Reaktor Space Lab,Finland,Space Science
+463,Mitsubishi Electric ,Japan,Communications
+464,"College of Engineering, Pune",India,Technology Development
+465,Spectrum Astro (General Dynamics),USA,Space Science
+466,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,Technology Development
+467,Naval Research Laboratory/Johns Hopkins University Applied Physics Laboratory,USA,Technology Development
+468,"Beijing MinoSpace Technology Co., Ltd.",China,Technology Development
+469,Orbit Fab,USA,Technology Development
+470,Tel Aviv University,Israel,Space Science
+471,TRW Defense and Space Systems Group,USA,Communications
+472,Teikyo University,Japan,Technology Development
+473,ST Electronics Ltd.,Singapore,Earth Observation
+474,"Colorado State University, NASA Jet Propulsion Laboratory, Blue Canyon Technologies, Inc.",USA,Space Science
+475,Kyushu Technical University,Japan,Space Science
+476,NASA/MIT,USA,Space Science
+477,Kayser-Threde GmbH,Germany,Technology Development
+478,Herzliya Science Center,Israel,Amateur Radio
+479,Swales Aerospace,USA,Space Science
+480,Chinese Academy of Space Technology (CAST),China,Space Science
+481,DFH Satellite Co. Ltd.,China,Earth Observation
+482,DFH Satellite Co. Ltd. ,China,Earth Observation
+483,Changguang Satellite Co.,China,Earth Observation
+484,China Academy of Launch Vehicle Technology (CASIC),China,Technology Development
+485,Guodian Gaoke,China,Communications
+486,Shanghai ASES Spaceflight Technology Co. Ltd.,China,Technology Development
+487,Sun Yat-sen University/CAST,China,Technology Development
+488,"Insight Position Digital Intelligence Technology Service Co., Ltd. ",China,Technology Development
+489,National University of Defense Technology,China,Earth Observation/Communications
+490,Nanjing University of Aeronautics and Astronautics/Shanghai Engineering Center for Microsatellites,China,Technology Development
+491,China Electronic Techology Group,China,Technology Development
+492,Spacety Aerospace Co.,China,Technology Development
+493,Nanjing University of Science and Technology,China,Technology Demonstration
+494,Innovation Academy for Microsatellites/Chinese Academy of Sciences,China,Technology Development
+495,La Sapienza University of Rome,Italy,Earth Observation
+496,"Applied Physics Laboratory, Johns Hopkins",USA,Space Science
+497,Shanghai Academy of Spaceflight Technology,China,Technology Development
+498,University of Malibor/SkyLabs,Slovenia,Technology Development
+499,MIT/Goddard Space Flight Center,USA,Earth Observation
+500,KB Yuznoye,Ukraine,Earth Observation
+501,Tallinn University of Technology,Estonia,Earth Observation
+502,University of Toronto Institute for Aerospace Studies (UTIAS),Canada,Technology Development
+503,EADS B,France/Germany/Space,Communications
+504,Elbit Systems,Israel,Technology Development
+505,UMBRA,USA,Earth Observation
+506,Alba Orbital,UK,Technology Development
+507,Wakayama University and other Japanese universities,Japan,Earth Observation
+508,Polytechnic University of Madrid,Spain,Technology Development
+509,National Reconnaissance Office,USA,Earth Observation
+510,University of Versailles Saint-Quentin-en-Yvelines (UVSQ),France,Technology Demonstration
+511,Johns Hopkins University Applied Physics Laboratory,USA,Earth Observation
+512,Care Weather Technologies/Brigham Young University,USA,Earth Observation
+513,Nanyang Technological University,Singapore,Technology Development
+514,NASA/Carnegie Mellon University,USA,Technology Demonstration
+515,Czech Aerospace Research Center (VZLU) and partners,Czech Republic,Technology Development
+516,"WarpSpace, Inc.",Japan,Technology Development
+517,Joanneum Research,Austria,Technology Development
+518,Shanghai Micro Satellite Engineering Center,China,Technology Development
+519,Boeing Integrated Defense Systems,USA,Communications
+520,Harbin Institute of Technology/DFH Satellite Co. Ltd.,China,Technology Development
+521, China Academy of Sciences (CAS)/National Space Science Center,China,Technology Development
+522,National University of Defence Technology (NUDT),China,Technology Development
+523,Dornier Systems (and 46 subcontractors),International,Space Science
+524,Centre for Research in Satellite Technology (CREST),Singapore,Earth Observation
+525,DFH Satellite Co. Ltd./CAMSAT,China,Communications
+526,Ninth Academy of CASIC,China,Technology Development
+527,Fugro,USA,Satellite Positioning
+528,Payloads from DARPA and Internet of Things,USA,Communications
+529,Rocket-Space Corporation Energia/Alcatel,Russia,Communications
+530,Thales,France,Communications
+531,Shanghai Academy of Satellite Technology (SAST),China,Earth Observation
+532,China Academy of Space Tecnology (CAST),China,Earth Observation
+533,CAST/Changchun Light Technology Institute,China,Earth Observation
+534,Innovation Academy for Microsatellites ,China,Earth Observation
+535,Bauman Moscow State Technical University,Russia,Space Science
+536,GalaxySpace,China,Communications
+537,Galaxy Space,China,Communications
+538,Hubei University of Technology (HUT)/Spacety,China,Technology Development
+539,French South African Institute of Technology/Cape Peninsula University of Technology,South Africa,Technology Development/Educational
+540,China Earthquake Administration/Italian Institute for Nuclear Physics,China/Italy,Earth Science
+541,Zhejiang University,China,Space Science
+542,Tsinghua University ,China,Earth Science
+543,China Great Wall Industry Corporation (CGWIC),China,Communications
+544,Zhuhai Orbita Control Engineering Co. Ltd.,China,Earth Observation
+545,Zhuhai Orbita Aerospace Science and Technology Co.,China,Earth Observation
+546,Mitsubishi Heavy Industries,Japan,Technology Development

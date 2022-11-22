@@ -7,25 +7,11 @@
         <style>
             .myContainer {
                 margin:auto;
-                width:1210px;
-            }
-            #pie_div, #bar_div {
-                float:left;
-                width:600px;
-                padding:10px;
-            }
-            #bar_div {
-                float:right;
-            }
-            #pie_legend{
-                position: relative;
-                top: -215px;
-                width: 100%;
-                text-align: center;
+                width:1620px;
             }
             svg {
-                width: 580px;
-                height:400px;
+                width: 1600px;
+                height:600px;
                 background-color: white;
                 border: 1px solid lightgray;
                 border-radius: 3px;
@@ -39,7 +25,10 @@
             <h3 class="text-center">btran15@asu.edu - kmanik@asu.edu</kmanik></h3>
             <hr>
             <form class="border border-dark rounded p-2 mb-2 bg-light shadow-sm">
-                <label for="wordbox">Enter text here</label>
+                <select id='country-Pic' class="col-3" >
+                    <option value="0">Select a country</option>
+                </select>
+                <svg id="pie_div"></svg>
             </form>    
         </div>
         
