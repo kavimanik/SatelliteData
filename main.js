@@ -15,5 +15,39 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log(companies);
             console.log(contractors);
             console.log(statellites);
+
+            draw_Table_for_Companies();
          });
  });
+
+// Draws a table for companies witht the columns headers CompanyName, CompanyID, and Country and Usecase from companies.csv
+function draw_Table_for_Companies(){
+    var table = d3.select("#country_table").append("table");
+    var tbody = table.append("tbody");
+
+    // append the header row
+    table.append('thead')
+        .append("tr")
+        .selectAll("th")
+        .data(["CompanyName", "CompanyID", "Country", "Usecase"])
+        .enter()
+        .append("th")
+        .text(function(column) { return column; });
+
+    // create a row for each object in the data
+    var rows = tbody.selectAll("tr")
+        .data(companies)
+        .enter()
+        .append("tr");
+
+    // create a cell in each row for each column
+    var cells = rows.selectAll("td")
+        .data(function(row) {
+            return ["CompanyName", "CompanyID", "Country", "Usecase"].map(function(column) {
+                return {column: column, value: row[column]};
+            });
+        })
+        .enter()
+        .append("td")
+        .text(function(d) { return d.value; });
+}
