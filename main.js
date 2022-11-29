@@ -16,23 +16,34 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log(contractors);
             console.log(statellites);
 
+            // add attributes each company for number of satellites
+            companies.forEach(function(company){
+                company.numSatellites = 0;
+                statellites.forEach(function(satellite){
+                    //console.log(satellite.company);
+                    if (satellite.company == company.company){
+                        company.numSatellites += 1;
+                    }
+                });
+            });
+
+
             draw_Table_for_Companies();
          });
  });
 
 // Draws a table for companies witht the columns headers CompanyName, CompanyID, and Country and Usecase from companies.csv
 function draw_Table_for_Companies(){
-    var table = d3.select("#country_table").append("table");
+    var table = d3.select("#country_table").append("table")
+    var thead = table.append("thead")
     var tbody = table.append("tbody");
 
     // append the header row
-    table.append('thead')
-        .append("tr")
+    thead.append("tr")
         .selectAll("th")
-        .data(["CompanyName", "CompanyID", "Country", "Usecase"])
-        .enter()
+        .data(["CompanyName", "CompanyID", "Country", "Usecase"]).enter()
         .append("th")
-        .text(function(column) { return column; });
+            .text(function(column) { return column; });
 
     // create a row for each object in the data
     var rows = tbody.selectAll("tr")
